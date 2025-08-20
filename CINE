@@ -1,743 +1,512 @@
-
-
-#EXTINF:-1,tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/tshllXJDIctUlD1kMPQdIh37L2V.jpg",Argylle: agente secreto (2024)
+#EXTM3U
+#EXTINF:-1 group-title="Acción/Aventura" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/tshllXJDIctUlD1kMPQdIh37L2V.jpg", Argylle: agente secreto (2024)
 https://dl.dropbox.com/scl/fi/t6rijs8arxg8yryc0jovi/4rgy.mp4?rlkey=hrx9ustmmc7zisfpqfdsxxuoj
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co/NYBfrtt/road.jpg",Casa de carretera (2024)
+#EXTINF:-1 group-title="Terror" tvg-logo="https://i.ibb.co/NYBfrtt/road.jpg", Casa de carretera (2024)
 https://dl.dropbox.com/scl/fi/omir5ir4001n3xyvhhnu6/R0AD-H0US3.mp4?rlkey=dnpz2b15z29ewsak8lpz7d6z2
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co/pLk6bgj/LIFT.jpg",Lift: un robo de primera clase (2024)
+#EXTINF:-1 group-title="Acción/Crimen" tvg-logo="https://i.ibb.co/pLk6bgj/LIFT.jpg", Lift: un robo de primera clase (2024)
 https://dl.dropbox.com/scl/fi/vxwei9jj6c990nxrd47p8/L1FT.mp4?rlkey=8rrpvrkr6pdk94qme2zleiy0a
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YdRDbbH/equ3.jpg",El Justiciero: Capitulo Final (2023)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/YdRDbbH/equ3.jpg", El Justiciero: Capitulo Final (2023)
 https://dl.dropbox.com/scl/fi/a6gz9cts85xa4wvki7usf/1_5030746742002287483.mp4?rlkey=botny91agmlxhh0sn1ebawmtu
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h1vFzXN/equ2.jpg",El Justiciero 2 (2018)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/h1vFzXN/equ2.jpg", El Justiciero 2 (2018)
 https://dl.dropbox.com/scl/fi/gkoqnxnlmlwyopl2ubt8i/JUST1C13R0-2.mp4?rlkey=jnidloytjzzo9dirigmh3b8a6
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3vXhCm/equ1.jpg",El Justiciero (2014)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/R3vXhCm/equ1.jpg", El Justiciero (2014)
 https://dl.dropbox.com/scl/fi/k3keowv5cy43hg4pumv4f/JUST1C13R0-1.mp4?rlkey=dbk8nljy6mxa529b8y9kxa6so
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wr946rm/indiana5.jpg",Indiana Jones 5 (2023)
+#EXTINF:-1 group-title="Aventura/Acción" tvg-logo="https://i.ibb.co/wr946rm/indiana5.jpg", Indiana Jones 5 (2023)
 https://dl.dropbox.com/scl/fi/lkripk0qmmnuan0j7y06g/1nd14n4.mkv?rlkey=baf29h38vu1fyypzi1nu6fwe9
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSNQPpm/ext2.jpg",Misión Rescate 2 (2023)
+#EXTINF:-1 group-title="Acción" tvg-logo="https://i.ibb.co/kSNQPpm/ext2.jpg", Misión Rescate 2 (2023)
 https://dl.dropbox.com/s/ohbgz776mnv8f7u/extrac2.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/lagranpor/lagranpor.png",La Gran Muralla (2016)
+#EXTINF:-1 group-title="Acción/Fantasía" tvg-logo="https://archive.org/download/lagranpor/lagranpor.png", La Gran Muralla (2016)
 https://dl.dropbox.com/s/mn8wtasq82xrken/342536476587912344.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CMzr3b1/PIRATAS-DEL-CARIBE-EL-COFRE-DE-LA-MUERTE.jpg",Piratas del Caribe 2 - El cofre de la muerte
+#EXTINF:-1 group-title="Aventura/Fantasía" tvg-logo="https://i.ibb.co/CMzr3b1/PIRATAS-DEL-CARIBE-EL-COFRE-DE-LA-MUERTE.jpg", Piratas del Caribe 2 - El cofre de la muerte
 https://dl.dropbox.com/s/doxveva3t27as0i/Pirates.of.the.caribbean.dead.mans.chest.2006.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMPff2B/PIRATAS-DEL-CARIBE-EN-EL-FIN-DEL-MUNDO.jpg",Piratas del Caribe 3 - En el fin del mundo
+#EXTINF:-1 group-title="Aventura/Fantasía" tvg-logo="https://i.ibb.co/ZMPff2B/PIRATAS-DEL-CARIBE-EN-EL-FIN-DEL-MUNDO.jpg", Piratas del Caribe 3 - En el fin del mundo
 https://dl.dropbox.com/s/vzv0dsmu8uoynui/Pirates.of.the.caribbean.at.worlds.end.2007.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B68RmWR/Bumblebee.jpg",Bumblebee (2018)
+#EXTINF:-1 group-title="Acción/Ciencia ficción" tvg-logo="https://i.ibb.co/B68RmWR/Bumblebee.jpg", Bumblebee (2018)
 https://dl.dropbox.com/s/mhdmidynlqg5xir/bumblebee%20%282018%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1f2dXjb/beast.jpg",Transformers: el despertar de las bestias (2023)
+#EXTINF:-1 group-title="Acción/Ciencia ficción" tvg-logo="https://i.ibb.co/1f2dXjb/beast.jpg", Transformers: el despertar de las bestias (2023)
 https://dl.dropbox.com/scl/fi/exw7880te9rw4l12779gm/D3SP3RT4RB34ST.mp4?rlkey=gkz38rhid6tej9k5rt06wexs9
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKpjp7D/La-Momia-2017.jpg",La momia (2017)
+#EXTINF:-1 group-title="Acción/Aventura" tvg-logo="https://i.ibb.co/ZKpjp7D/La-Momia-2017.jpg", La momia (2017)
 https://dl.dropbox.com/s/baipaq04q2imj5g/l4m0m14.mp4
 
-
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/guy_ritchie_s_the_covenant-145554066-large.jpg",El Pacto
+#EXTM3U
+#EXTINF:-1 group-title="Thriller" tvg-logo="https://pics.filmaffinity.com/guy_ritchie_s_the_covenant-145554066-large.jpg",El Pacto
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/The.Covenant.2023.DVDRip-Lat.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSNQPpm/ext2.jpg",Misión Rescate 2 (2023)
+#EXTINF:-1 group-title="Acción" tvg-logo="https://i.ibb.co/kSNQPpm/ext2.jpg",Misión Rescate 2 (2023)
 https://dl.dropbox.com/s/ohbgz776mnv8f7u/extrac2.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QbGPvgv/gods.jpg",Junto con los Dioses: Los Dos Mundos
+
+#EXTINF:-1 group-title="Fantasía/Acción" tvg-logo="https://i.ibb.co/QbGPvgv/gods.jpg",Junto con los Dioses: Los Dos Mundos
 https://archive.org/download/junto-a-los-dioses/hola/Junto%20a%20los%20dioses.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1KPQ3gQ/shan1.jpg",Niño de Shangai (2000)
+#EXTINF:-1 group-title="Acción/Artes marciales" tvg-logo="https://i.ibb.co/1KPQ3gQ/shan1.jpg",Niño de Shangai (2000)
 https://ia601608.us.archive.org/8/items/c-4rs-hd-720p-699968/Shangha41_Kid___del_este_al_oeste_HD__720p___1123111.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3yz5PM2/shan2.jpg",Shangai niño 2 (2003)
+#EXTINF:-1 group-title="Acción/Artes marciales" tvg-logo="https://i.ibb.co/3yz5PM2/shan2.jpg",Shangai niño 2 (2003)
 https://ia601608.us.archive.org/8/items/c-4rs-hd-720p-699968/Shangh41_Kid_en_Londres_DVDRip__1139272.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dkhTDX0/rival.jpg",Máximo Rival (1999)
+#EXTINF:-1 group-title="Acción/Deportes" tvg-logo="https://i.ibb.co/dkhTDX0/rival.jpg",Máximo Rival (1999)
 https://ia801608.us.archive.org/8/items/c-4rs-hd-720p-699968/M_ximo_rival_DVDRip__1094396.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gd4vc0Z/police.jpg",Nueva historia policial (2004)
+#EXTINF:-1 group-title="Acción/Policíaca" tvg-logo="https://i.ibb.co/gd4vc0Z/police.jpg",Nueva historia policial (2004)
 https://ia601608.us.archive.org/8/items/c-4rs-hd-720p-699968/New_Policia_Story_DVDRip__1420285.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/posterpolicia/poster%20policia.png",Historia policial/Police History (1985)
+#EXTINF:-1 group-title="Policíaca" tvg-logo="https://archive.org/download/posterpolicia/poster%20policia.png",Historia policial/Police History (1985)
 https://archive.org/download/refrigeradora/refrigeradora.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X47XGZ/timecop.jpg",Timecop Policía en el tiempo (1994)
+#EXTINF:-1 group-title="Ciencia ficción/Acción" tvg-logo="https://i.ibb.co/1X47XGZ/timecop.jpg",Timecop Policía en el tiempo (1994)
 https://ia601505.us.archive.org/12/items/4_20210301/8%20nov/5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r4VJVh1/soldado-universal-universal-soldier.jpg",Soldado Universal (1992)
+#EXTINF:-1 group-title="Acción/Ciencia ficción" tvg-logo="https://i.ibb.co/r4VJVh1/soldado-universal-universal-soldier.jpg",Soldado Universal (1992)
 https://ia601507.us.archive.org/10/items/bfrbc/54ib5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N9Hnrmm/soldado-universal2.jpg",Soldado Universal 2: (1998)
+#EXTINF:-1 group-title="Acción/Ciencia ficción" tvg-logo="https://i.ibb.co/N9Hnrmm/soldado-universal2.jpg",Soldado Universal 2: (1998)
 https://ia601507.us.archive.org/23/items/uhu_20191207/uhu.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sn7gXKw/soldado-universal-3-tres-regeneracion-van-damme.jpg",Soldado Universal 3: Regeneración
+#EXTINF:-1 group-title="Acción/Ciencia ficción" tvg-logo="https://i.ibb.co/Sn7gXKw/soldado-universal-3-tres-regeneracion-van-damme.jpg",Soldado Universal 3: Regeneración
 https://ia601507.us.archive.org/23/items/uhu_20191207/ughp.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QrzqTmF/Soldado-universal-4-el-juicio-final.jpg",Soldado Universal 4: El Juicio Final
+#EXTINF:-1 group-title="Acción/Ciencia ficción" tvg-logo="https://i.ibb.co/QrzqTmF/Soldado-universal-4-el-juicio-final.jpg",Soldado Universal 4: El Juicio Final
 https://ia601507.us.archive.org/23/items/uhu_20191207/82b57.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxRz7G6/colombiana.jpg",Colombiana: Venganza despiadada (2011)
+#EXTINF:-1 group-title="Acción/Crimen" tvg-logo="https://i.ibb.co/KxRz7G6/colombiana.jpg",Colombiana: Venganza despiadada (2011)
 https://ia601601.us.archive.org/28/items/colomb-despiad-dvdrip-1067181/ColombDespiad__DVDRip__1067181.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg2NWNhOWItYjA3Yi00MzhhLTg4ZmItYzM3ZTIwN2U0ZGQ5XkEyXkFqcGdeQXVyMzEyMDQzNzY@._V1_FMjpg_UX1000_.jpg",noche sin paz
+#EXTINF:-1 group-title="Thriller" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg2NWNhOWItYjA3Yi00MzhhLTg4ZmItYzM3ZTIwN2U0ZGQ5XkEyXkFqcGdeQXVyMzEyMDQzNzY@._V1_FMjpg_UX1000_.jpg",noche sin paz
 https://archive.org/download/fi_20230106/Noche%20Sin%20Paz.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8lECLNHMOR3JB9Yon_GogmYXBHukXADUMOaiToqHbSrd0gkzr",la mujer rey
+#EXTINF:-1 group-title="Drama/Histórica" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8lECLNHMOR3JB9Yon_GogmYXBHukXADUMOaiToqHbSrd0gkzr",la mujer rey
 https://archive.org/download/casa-en-el-lago/87234--bfc7cfbc-00d6-4215-96b3-11b7cd22863a--rdmy--813453-streamsb.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/eeeee_202302/__ia_thumb.jpg",Devoción (2022)
+#EXTINF:-1 group-title="Drama/ bélico" tvg-logo="https://archive.org/download/eeeee_202302/__ia_thumb.jpg",Devoción (2022)
 https://archive.org/download/devotion-720p-dual-1.4-gb/Devotion%20720p%20DUAL%201.4%20GB.mkv
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/glad_20230202/glad.jpg",Gladiador (2000)
+#EXTINF:-1 group-title="Épica/Histórica" tvg-logo="https://archive.org/download/glad_20230202/glad.jpg",Gladiador (2000)
 https://archive.org/download/026_20200428/026.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDRHzSm/Free.jpg",Chico libre (2021)
+#EXTM3U
+#EXTINF:-1 group-title="Drama" tvg-logo="https://i.ibb.co/HDRHzSm/Free.jpg", Chico libre (2021)
 https://archive.org/download/manguera_20210927/_Fr33%205uy.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8XF0YW2/Punto-de-Quiebre-2014.jpg",Punto de Quiebre (1991)
+#EXTINF:-1 group-title="Acción" tvg-logo="https://i.ibb.co/8XF0YW2/Punto-de-Quiebre-2014.jpg", Punto de Quiebre (1991)
 https://archive.org/download/sciyt/Mhuc/pqk.avi
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/926j4wnskRBMtWJuR4bCrlKb1ZF.jpg",EL CUERVO (1994)
+#EXTINF:-1 group-title="Suspenso" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/926j4wnskRBMtWJuR4bCrlKb1ZF.jpg", EL CUERVO (1994)
 https://dl.dropbox.com/s/nw9b7sdrknpxrv8/EL%20cuervo%20de%20brandon%20lee.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/boupe/boupor.png",El caso Bourne (2002)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://archive.org/download/boupe/boupor.png", El caso Bourne (2002)
 https://archive.org/download/boupe/boupe.mkv
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/lasubo2004/thebosupo.png",La supremacia Bourne (2004)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://archive.org/download/lasubo2004/thebosupo.png", La supremacia Bourne (2004)
 https://archive.org/download/lasubo2004/lasubo2004.mkv
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/lasubo2004/theboulpor.png",El ultimátum de Bourne (2007)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://archive.org/download/lasubo2004/theboulpor.png", El ultimátum de Bourne (2007)
 https://archive.org/download/lasubo2004/ulbo2007.mkv
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/mortal-kombat-2_202106/Mortal%20Kombat%202.jpg",Mortal Kombat 2
+#EXTINF:-1 group-title="Acción/Fantasía" tvg-logo="https://archive.org/download/mortal-kombat-2_202106/Mortal%20Kombat%202.jpg", Mortal Kombat 2
 https://archive.org/download/mortal-kombat-2-anihilation/Mortal%20Kombat%202%20ANIHILATION.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fppTNtm/Resident-evil-2-Apocalipsis.jpg",Resident Evil 2: Apocalipsis
+#EXTINF:-1 group-title="Acción/Terror" tvg-logo="https://i.ibb.co/fppTNtm/Resident-evil-2-Apocalipsis.jpg", Resident Evil 2: Apocalipsis
 https://archive.org/download/6_20200518_20200518/2.MP4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SmxJm6W/Resident-evil-3-Extinsion.jpg",Resident Evil 3 : Extinción
+#EXTINF:-1 group-title="Acción/Terror" tvg-logo="https://i.ibb.co/SmxJm6W/Resident-evil-3-Extinsion.jpg", Resident Evil 3 : Extinción
 https://archive.org/download/6_20200518_20200518/3.MP4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k9YckS9/Resident-evil-4-Resurrecion.jpg",Resident Evil 4 : Resurrección
+#EXTINF:-1 group-title="Acción/Terror" tvg-logo="https://i.ibb.co/k9YckS9/Resident-evil-4-Resurrecion.jpg", Resident Evil 4 : Resurrección
 https://archive.org/download/6_20200518_20200518/4.MP4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNBJsLG/Resident-evil-5-La-venganza.jpg",Resident Evil : 5 La venganza
+#EXTINF:-1 group-title="Acción/Terror" tvg-logo="https://i.ibb.co/VNBJsLG/Resident-evil-5-La-venganza.jpg", Resident Evil : 5 La venganza
 https://archive.org/download/6_20200518_20200518/5.MP4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7121sq/Resident-evil-6-Capitulo-Final.jpg",Resident Evil 6 : Capítulo Final
+#EXTINF:-1 group-title="Acción/Terror" tvg-logo="https://i.ibb.co/S7121sq/Resident-evil-6-Capitulo-Final.jpg", Resident Evil 6 : Capítulo Final
 https://archive.org/download/6_20200518_20200518/6.mkv
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/el-rey-escorpion-caratula/el%20rey%20escorpion%20caratula.jpg",El REy Escorpión
+#EXTINF:-1 group-title="Acción/Fantasía" tvg-logo="https://archive.org/download/el-rey-escorpion-caratula/el%20rey%20escorpion%20caratula.jpg", El REy Escorpión
 https://archive.org/download/el-rey-escorpion_202204/el%20rey%20escorpion.avi
 
-
-
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/srhQeDr0n53IV5xAfee4xwJMSPr.jpg",Ong Bak (2003)
+#EXTM3U
+#EXTINF:-1 group-title="Acción/Artes marciales" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/srhQeDr0n53IV5xAfee4xwJMSPr.jpg", Ong Bak (2003)
 https://archive.org/download/onpe_20211224/onpe.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/plvWFyL4tQXgWOae0P8A4hECWLD.jpg",007 - Ojo dorado (1995)
+#EXTINF:-1 group-title="Acción/Spy" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/plvWFyL4tQXgWOae0P8A4hECWLD.jpg", 007 - Ojo dorado (1995)
 http://archive.org/download/mio53_yopmail_3/3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SNDknx3/007-El-ma-ana-nunca-muere.jpg",007 - El mañana nunca muere (1997)
+#EXTINF:-1 group-title="Acción/Spy" tvg-logo="https://i.ibb.co/SNDknx3/007-El-ma-ana-nunca-muere.jpg", 007 - El mañana nunca muere (1997)
 http://archive.org/download/mio53_yopmail_2/2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mnX3Gn/007-El-mundo-no-basta.jpg",007 - El mundo no basta (1999)
+#EXTINF:-1 group-title="Acción/Spy" tvg-logo="https://i.ibb.co/8mnX3Gn/007-El-mundo-no-basta.jpg", 007 - El mundo no basta (1999)
 http://archive.org/download/mio53_yopmail_1/1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pPr2MWy/007-Otro-da-para-morir.jpg",007 - Otro día para morir (2002)
+#EXTINF:-1 group-title="Acción/Spy" tvg-logo="https://i.ibb.co/pPr2MWy/007-Otro-da-para-morir.jpg", 007 - Otro día para morir (2002)
 http://archive.org/download/mio53_yopmail_4/4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRz69dL/007-Casino-Royale.jpg",007 - Casino Royale (2006)
+#EXTINF:-1 group-title="Acción/Spy" tvg-logo="https://i.ibb.co/jRz69dL/007-Casino-Royale.jpg", 007 - Casino Royale (2006)
 http://archive.org/download/mio53_yopmail_5/5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q7xTWWF/007-Quantum.jpg",007 - Cuántico (2008)
+#EXTINF:-1 group-title="Acción/Spy" tvg-logo="https://i.ibb.co/q7xTWWF/007-Quantum.jpg", 007 - Cuántico (2008)
 http://archive.org/download/mio53_yopmail_6/6.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jWVfFWK/007-STMORI.jpg",Sin tiempo para morir (2021)
+#EXTINF:-1 group-title="Acción/Spy" tvg-logo="https://i.ibb.co/jWVfFWK/007-STMORI.jpg", Sin tiempo para morir (2021)
 https://dl.dropbox.com/s/45nj1xweci2ti86/007%20S1N%20T1EMP0%20M0R1R.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/rendirse-jamas/Rendirse%20Jamas.jpg",Rendirse Jamas
+#EXTINF:-1 group-title="Acción/Artes marciales" tvg-logo="https://archive.org/download/rendirse-jamas/Rendirse%20Jamas.jpg", Rendirse Jamas
 https://archive.org/download/rendirse-jamas-never-back-down/Rendirse%20Jamas%20%28Never%20Back%20Down%29.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4jSfvZp/MANNFIRE.jpg",Hombre en llamas (2004)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/4jSfvZp/MANNFIRE.jpg", Hombre en llamas (2004)
 https://dl.dropbox.com/s/xrqjpg81h66ubeq/M4N%201N%20F1R3.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TTCVJfH/Pearl-Harbor.jpg",Pearl Harbor
+#EXTINF:-1 group-title="Drama/Romance/Bélico" tvg-logo="https://i.ibb.co/TTCVJfH/Pearl-Harbor.jpg", Pearl Harbor
 https://archive.org/download/038_20200504/038.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RHX3n3w/Mulan-2020.jpg",Mulan(2020)
+#EXTINF:-1 group-title="Aventura/Fantasía" tvg-logo="https://i.ibb.co/RHX3n3w/Mulan-2020.jpg", Mulan(2020)
 https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gS6Zdk5/LOSERS.jpg",Los perdedores (2010)
+#EXTINF:-1 group-title="Acción/Aventura" tvg-logo="https://i.ibb.co/gS6Zdk5/LOSERS.jpg", Los perdedores (2010)
 https://dl.dropbox.com/s/7rdipab957avh4b/TH3L0S3R.avi
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/kiss-dragon/20203215.jpg",EL BESO DEL DRAGON
+#EXTINF:-1 group-title="Acción/Artes marciales" tvg-logo="https://archive.org/download/kiss-dragon/20203215.jpg", EL BESO DEL DRAGON
 https://archive.org/download/kiss-dragon/Kiss%20Dragon.avi
 
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/l6bCO7BhJJCQehaEqHc4fx80kiG.jpg",Jackie Brown (1997)
+#EXTM3U
+#EXTINF:-1 group-title="Crimen/Drama" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/l6bCO7BhJJCQehaEqHc4fx80kiG.jpg", Jackie Brown (1997)
 https://archive.org/download/gaseosa/gaseosa/gaseosa.avi
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rZuCZ4o77Tct0EEYV4CfTTtYj4z.jpg",Bastardos sin gloria (2009)
+#EXTINF:-1 group-title="Guerra/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rZuCZ4o77Tct0EEYV4CfTTtYj4z.jpg", Bastardos sin gloria (2009)
 https://archive.org/download/chocolate_202004/chocolate/chocolate.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/naaYX64yMGzEFsATOFQDaxxQWbJ.jpg",Django Desencadenado (2012)
+#EXTINF:-1 group-title="Western/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/naaYX64yMGzEFsATOFQDaxxQWbJ.jpg", Django Desencadenado (2012)
 https://archive.org/download/maiz23/maiz/maiz%2023.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cjyGCKyEZKhZF2YkqxyzrfoeKoL.jpg",Apocalypto (2006) Dialecto Maya
+#EXTINF:-1 group-title="Aventura/Histórica" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cjyGCKyEZKhZF2YkqxyzrfoeKoL.jpg", Apocalypto (2006) Dialecto Maya
 https://dl.dropbox.com/s/ewmka7ezyxmojqe/4p0c4lypt0.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/apopor/apopor.png",Apocalipto (2006)
+#EXTINF:-1 group-title="Aventura/Histórica" tvg-logo="https://archive.org/download/apopor/apopor.png", Apocalipto (2006)
 https://archive.org/download/picante_202003/picante/picante.mp4
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ay90WBc6vrC7IYneuuyAS00hw2F.jpg",Yojimbo (1961) Doble
+#EXTINF:-1 group-title="Samurái/Drama" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ay90WBc6vrC7IYneuuyAS00hw2F.jpg", Yojimbo (1961) Doble
 https://archive.org/download/faraon/faraon/faraon.mkv
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/3_20201017_20201017_1926/Today/4.1.png",Venganza Bajo Cero (2019)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://archive.org/download/3_20201017_20201017_1926/Today/4.1.png", Venganza Bajo Cero (2019)
 https://archive.org/download/3_20201017_20201017_1926/Today/4.mp4
 
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/dredd-352014139-large/Dredd-352014139-large.jpg",Dredd (2012)
+#EXTINF:-1 group-title="Ciencia ficción/Acción" tvg-logo="https://archive.org/download/dredd-352014139-large/Dredd-352014139-large.jpg", Dredd (2012)
 https://archive.org/download/dredd_202110/184%20Dredd%20-%20PelisandSeries.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qJYc6v3/jolt.jpg",Jolt (2021)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/qJYc6v3/jolt.jpg", Jolt (2021)
 https://archive.org/download/carros_20220107/J01t.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xDQq8GP/alerta.jpg",Alerta Roja (2021)
+#EXTINF:-1 group-title="Acción/Comedia" tvg-logo="https://i.ibb.co/xDQq8GP/alerta.jpg", Alerta Roja (2021)
 https://archive.org/download/alerta-roja_20211120_1822/ALERTA%20ROJA.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4F6Lcbb/gladiator.jpg",Gladiador El Desafio Comienza (1992)
+#EXTINF:-1 group-title="Acción/Aventura" tvg-logo="https://i.ibb.co/4F6Lcbb/gladiator.jpg", Gladiador El Desafio Comienza (1992)
 https://archive.org/download/gladiator-el-desafio-comienza/Gladiator%20El%20Desafio%20Comienza.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YjvjSf/60-Segundos.jpg",60 Segundos (2000)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/3YjvjSf/60-Segundos.jpg", 60 Segundos (2000)
 https://archive.org/download/035_20200504/035.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3Mgjw64/Acceleration.jpg",Aceleración (2019)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/3Mgjw64/Acceleration.jpg", Aceleración (2019)
 https://dl.dropboxusercontent.com/s/lvmdx920raodlpm/Acceleration.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ykmsyPV/Ahora-son-13.jpg",Ahora hijo 13 (2007)
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://i.ibb.co/ykmsyPV/Ahora-son-13.jpg", Ahora hijo 13 (2007)
 https://archive.org/download/jois_20200512/MWREN/3%20stf.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ssVJBbd/Arma-Mortal1.jpg",Arma mortal 1 (1987)
+#EXTINF:-1 group-title="Acción/Policíaca" tvg-logo="https://i.ibb.co/ssVJBbd/Arma-Mortal1.jpg", Arma mortal 1 (1987)
 https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHYWxzm/Arma-Mortal3.jpg",Arma mortal 3 (1992)
+#EXTINF:-1 group-title="Acción/Policíaca" tvg-logo="https://i.ibb.co/VHYWxzm/Arma-Mortal3.jpg", Arma mortal 3 (1992)
 https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l%203.avi
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R6bQ8nr/g-Bgu-H1-Dpup8a16x-TD9b2-MRJ4lvf.jpg",Ava (2020)
+#EXTM3U
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/R6bQ8nr/g-Bgu-H1-Dpup8a16x-TD9b2-MRJ4lvf.jpg", Ava (2020)
 https://archive.org/download/manjaro-linux/Ava%20%282020%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yqGNQs8/Caza-mayor-2014.jpg",Caza alcalde (2014)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/yqGNQs8/Caza-mayor-2014.jpg", Caza alcalde (2014)
 https://dl.dropbox.com/s/9mjltgzxtz9v8w3/Caza%20Mayor.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/30Gb40r/Comando.jpg",Comando (1985)
+#EXTINF:-1 group-title="Acción" tvg-logo="https://i.ibb.co/30Gb40r/Comando.jpg", Comando (1985)
 https://archive.org/download/comando_202004/Comando.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VMsMQbC/Danny-the-Dog.jpg",Danny el perro (2005)
+#EXTINF:-1 group-title="Drama/Acción" tvg-logo="https://i.ibb.co/VMsMQbC/Danny-the-Dog.jpg", Danny el perro (2005)
 https://archive.org/download/thdg_20200308/dn%20th%20dg/thdg.avi
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Carrera de la Muerte" tvg-logo="https://pics.filmaffinity.com/death_race-510781879-large.jpg",Carrera de la Muerte ( 2008)
+#EXTINF:-1 group-title="Acción/Ciencia ficción" tvg-id="EPG N/A" tvg-name="Carrera de la Muerte" tvg-logo="https://pics.filmaffinity.com/death_race-510781879-large.jpg", Carrera de la Muerte ( 2008)
 https://archive.org/download/100006_201909/100006.wmv
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Death Race 2" tvg-logo="https://storage.googleapis.com/isnottv_cine/lv_seo_items/lv_549582b7af06c4bebc7078fb72341ed6_420.jpg",Death Race 2 (2010)
+#EXTINF:-1 group-title="Acción" tvg-id="EPG N/A" tvg-name="Death Race 2" tvg-logo="https://storage.googleapis.com/isnottv_cine/lv_seo_items/lv_549582b7af06c4bebc7078fb72341ed6_420.jpg", Death Race 2 (2010)
 https://archive.org/download/10007_202002/10007.wmv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fHR5NjP/El-Gran-Asalto.jpg",El gran asalto (2018)
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://i.ibb.co/fHR5NjP/El-Gran-Asalto.jpg", El gran asalto (2018)
 https://archive.org/download/22b4l42/211.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDQd1Zt/El-Marine.jpg",El Marino 1 (2006)
+#EXTINF:-1 group-title="Acción/Militar" tvg-logo="https://i.ibb.co/vDQd1Zt/El-Marine.jpg", El Marino 1 (2006)
 https://archive.org/download/elmari2dvdlat/mrne/elmari1dvdlat.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PW958C1/El-Marine-2.jpg",El Marino 2 (2009)
+#EXTINF:-1 group-title="Acción/Militar" tvg-logo="https://i.ibb.co/PW958C1/El-Marine-2.jpg", El Marino 2 (2009)
 https://archive.org/download/elmari2dvdlat/mrne/elmari2dvdlat.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HzqHKf9/El-Marine-3.jpg",El Marino 3 (2013)
+#EXTINF:-1 group-title="Acción/Militar" tvg-logo="https://i.ibb.co/HzqHKf9/El-Marine-3.jpg", El Marino 3 (2013)
 https://archive.org/download/elmari2dvdlat/mrne/elmarin3dvdlat.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xsSdjY6/El-Marine-4.jpg",El Marino 4 (2015)
+#EXTINF:-1 group-title="Acción/Militar" tvg-logo="https://i.ibb.co/xsSdjY6/El-Marine-4.jpg", El Marino 4 (2015)
 https://archive.org/download/elmari2dvdlat/mrne/elmarin4dvdlat.avi
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/furia-en-2-ruedas/Furia%20en%202%20ruedas.jpg",Furia en dos Ruedas (2004)
+#EXTINF:-1 group-title="Acción/Aventura" tvg-logo="https://archive.org/download/furia-en-2-ruedas/Furia%20en%202%20ruedas.jpg", Furia en dos Ruedas (2004)
 https://archive.org/download/furia-en-2-ruedas_202104/Furia%20En%202%20Ruedas.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygbhg7v/Hombres-dementes.jpg",Hombres de mentes (2009)
+#EXTINF:-1 group-title="Thriller" tvg-logo="https://i.ibb.co/ygbhg7v/Hombres-dementes.jpg", Hombres de mentes (2009)
 https://archive.org/download/kohbn/ptol/mkpoij.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rp55v6f/Hostiles.jpg",Hostiles (2017)
+#EXTINF:-1 group-title="Western/Drama" tvg-logo="https://i.ibb.co/Rp55v6f/Hostiles.jpg", Hostiles (2017)
 https://dl.dropbox.com/s/kbq46mfizyo9pr5/HOSTILES.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HK5hFbd/IP-man.jpg",Ip Man (2008)
+#EXTINF:-1 group-title="Acción/Artes marciales" tvg-logo="https://i.ibb.co/HK5hFbd/IP-man.jpg", Ip Man (2008)
 https://archive.org/download/7823964/1231230001.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7vDJ3yR/IP-man-2.jpg",Ip Man 2 (2010)
+#EXTINF:-1 group-title="Acción/Artes marciales" tvg-logo="https://i.ibb.co/7vDJ3yR/IP-man-2.jpg", Ip Man 2 (2010)
 https://archive.org/download/7823964/1231230002.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f8qLBjr/IP-man-3.jpg",Ip Man 3 (2015)
+#EXTINF:-1 group-title="Acción/Artes marciales" tvg-logo="https://i.ibb.co/f8qLBjr/IP-man-3.jpg", Ip Man 3 (2015)
 https://archive.org/download/7823964/1231230003.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBWC10y/IP-man-4.jpg",Ip Man 4 (2019)
+#EXTINF:-1 group-title="Acción/Artes marciales" tvg-logo="https://i.ibb.co/YBWC10y/IP-man-4.jpg", Ip Man 4 (2019)
 https://archive.org/download/7823964/1231230004.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/jack-reacher-nunca-vuelvas-atras/Jack%20Reacher%20Nunca%20vuelvas%20atras.jpg",Jack Racher Nunca Vuelvas Atras (2016) )
+#EXTINF:-1 group-title="Acción/Thriller" tvg-logo="https://archive.org/download/jack-reacher-nunca-vuelvas-atras/Jack%20Reacher%20Nunca%20vuelvas%20atras.jpg", Jack Racher Nunca Vuelvas Atras (2016)
 https://archive.org/download/jack-reacher-2-nunca-vuelvas-atras/Jack%20Reacher%202%20Nunca%20Vuelvas%20Atras.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G271knf/Karate-Kid1.jpg",Karate Kid (1984)
+#EXTINF:-1 group-title="Drama/Deportes" tvg-logo="https://i.ibb.co/G271knf/Karate-Kid1.jpg", Karate Kid (1984)
 https://archive.org/download/karatekid1/Karate%20Kid%201.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fkCBDnY/Karate-kid2.png",Karate Kid - Parte II (1986)
+#EXTINF:-1 group-title="Drama/Deportes" tvg-logo="https://i.ibb.co/fkCBDnY/Karate-kid2.png", Karate Kid - Parte II (1986)
 https://archive.org/download/karatekid1/Karate%20Kid%202.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/przc51T/Karate-Kid3.jpg",Karate Kid - Parte III (1989)
+#EXTINF:-1 group-title="Drama/Deportes" tvg-logo="https://i.ibb.co/przc51T/Karate-Kid3.jpg", Karate Kid - Parte III (1989)
 https://archive.org/download/karatekid3_202004/Karate%20Kid%203.avi
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qQ1U57QWVaxVcUXoqz4dco7sftJ.jpg",Karate Kid - Parte IV El próximo Karate Kid(1994)
+#EXTINF:-1 group-title="Drama/Deportes" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qQ1U57QWVaxVcUXoqz4dco7sftJ.jpg", Karate Kid - Parte IV El próximo Karate Kid(1994)
 https://archive.org/download/juka_20221228/juka.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lfj709InbmljVqAXgUk2qjnujNN.jpg",Kill Bill vol.1 (2003)
+#EXTINF:-1 group-title="Acción/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lfj709InbmljVqAXgUk2qjnujNN.jpg", Kill Bill vol.1 (2003)
 https://archive.org/download/agridulce1/agridulce/agridulce%201.avi
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg",Kill Bill vol.2 (2004)
+#EXTINF:-1 group-title="Acción/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg", Kill Bill vol.2 (2004)
 https://archive.org/download/chicle/chicle/chicle.avi
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/lod_20210405/lod.png",La fuerza de la naturaleza (2020)
-https://archive.org/download/52_20210405/52.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HRF9gb/LA-gran-estafa.jpg",La gran estafa (2001)
-https://archive.org/download/kohbn/ptol/wsde.avi
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0D1nJwt/La-tierra-y-la-sangre.jpg",La tierra y la sangre (2020)
-https://archive.org/download/1_20200428/1.2/3.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7k8Rpb9/legend.jpg",Leyenda: profesión de la violencia (2015)
-https://archive.org/download/pssi_20200515/fryu/llendale.avi
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TcHKNnX/Mexican-Gangsters.jpg",Gánster Mexicano (2013)
-https://archive.org/download/solf-12/onai/mgs.avi
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/86FWFvw/Assasins-Creed.jpg",Assasins Creed
-https://ia601509.us.archive.org/32/items/nhu9tdftu/cvovcc.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NyPn4B4/ms1.jpg",MS1 MAxima Seguridad Prisionera del Espacio (2012)
-https://ia601505.us.archive.org/12/items/4_20210301/8%20nov/3.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0NsVnW/Blood-and-Bone.jpg",Puños Mortales (2009)
-https://archive.org/download/040_20200504/040.avi
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mlH5Fm86tr7Q0NdKskVY6rZb5W3.jpg",Rápidos y Furiosos (2001)
-https://archive.org/download/pi_20221228/pi.mkv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nc1xXqn/Mas-Rapidos-mas-furiosos.jpg",Rapidos y Furioso 2: Más Rápido y más Furioso (2002)
-https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MPL7fv2/Rapidos-y-furiosos-Reto-Tokyo.jpg",Rápido y furioso 3: Reto Tokio (2006)
-https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20003.MP4
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg",Rápidos y furiosos 4 (2009)
-https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20004.MP4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sCbQfF/Rapidos-Y-Furiosos-Sin-Control.jpg",Rápidos y furiosos 5: Sin control (2011)
-https://archive.org/download/qwertgf08/qwertgf/qwertgf%2005.MP4
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg",Rápidos y Furiosos 6 (2013)
-https://archive.org/download/vue_20221230/vue.mkv
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/hO02IBZmvbn2RULu4myYVl2NUGj.jpg",Rápidos y Furiosos 7 (2015)
-https://archive.org/download/alt_20221231/alt.mkv
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/5b1zDwWxoDG8p8aHoRYfzOd7Lvy.jpg",Rápidos y Furiosos 8 (2017)
-https://archive.org/download/agi_20221231/agi.mkv
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/AmIfHhFWSJioozbYFcRXOAvMRsx.jpg",Rápidos y Furiosos 9 (2021)
-https://archive.org/download/tecli/tecli.mkv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZvQC2y/Pstr-1-1.jpg",Rapidos y Furiosos X (2023)
-https://dl.dropbox.com/s/0dushmny5bad43p/f45stX.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z22p6HQ/Sangre-Por-Sangre.jpg",Sangre Por Sangre (1993)
-https://archive.org/download/sang_20200511/Sang/Sang.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vsTV8f1/Taxi-2.jpg",Taxi 2 (2000)
-https://archive.org/download/taxderni/Tax2Cast.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2Y5tCS/Taxi-3.jpg",Taxi 3 (2003)
-https://archive.org/download/taxderni/Tax3Cast.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HTP9VNC/T4xi.jpg",Taxi 4 (2007)
-https://archive.org/download/taxderni/Tax4Cast.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VW0ngd/Taxi-Express.jpg",Taxi Expreso (1998)
-https://archive.org/download/taxderni/Tax1Cast.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B3pZ2nx/Terremoto-La-Falla-de-san-Andres.jpg",Terremoto: La falla de San Andrés (2015)
-https://archive.org/download/00100_20190920_0442/00100.avi
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sVvwm6z/Un-Detective-Suelto-Hollywood.jpg",Un detective suelto en Hollywood (1984)
+#EXTINF:-1 group-title"Comedia/Accion/Policiaca" tvg-logo="https://i.ibb.co/sVvwm6z/Un-Detective-Suelto-Hollywood.jpg",Un detective suelto en Hollywood (1984)
 https://archive.org/download/789456_202003/789456_0101.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgQLtTN/Un-detective-suelto-en-Hollywood-2.jpg",Un detective suelto en Hollywood II (1987)
+#EXTINF:-1 group-title"Comedia/Accion/Policiaca" tvg-logo="https://i.ibb.co/WgQLtTN/Un-detective-suelto-en-Hollywood-2.jpg",Un detective suelto en Hollywood II (1987)
 https://archive.org/download/789456_202003/789456_0102.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/18TNDpM/Un-detective-suelto-en-Hollywood-3.jpg",Un detective suelto en Hollywood III (1994)
+#EXTINF:-1 group-title"Comedia/Accion/Policiaca" tvg-logo="https://i.ibb.co/18TNDpM/Un-detective-suelto-en-Hollywood-3.jpg",Un detective suelto en Hollywood III (1994)
 https://archive.org/download/789456_202003/789456_0103.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vh6qcXp/V-De-Venganza.jpg",V De Venganza (2005)
+#EXTINF:-1 group-title"Thriller/Drama/Ciencia ficción" tvg-logo="https://i.ibb.co/vh6qcXp/V-De-Venganza.jpg",V De Venganza (2005)
 https://archive.org/download/vdv_20200409/VDV.avi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nfM85gx/hh.jpg",El chico blanco rick (2018)
+#EXTINF:-1 group-title"Crimen/Drama" tvg-logo="https://i.ibb.co/nfM85gx/hh.jpg",El chico blanco rick (2018)
 https://archive.org/download/7at_20200608/wht/wby.avi
 
+#EXTINF:-1 group-title"Accion/Thriller" tvg-logo="https://archive.org/download/lod_20210405/lod.png",La fuerza de la naturaleza (2020)
+https://archive.org/download/52_20210405/52.mp4
 
+#EXTINF:-1 group-title"Comedia/Crimen" tvg-logo="https://i.ibb.co/6HRF9gb/LA-gran-estafa.jpg",La gran estafa (2001)
+https://archive.org/download/kohbn/ptol/wsde.avi
 
-#EXTINF:-1 group-title="|CINE 2023|"  tvg-logo="https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",El Justiciero 3 capítulo final
-http://208.88.245.85/nuevo/el.justiciero3.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xM1yX980L50kjyGuvhykkz4utry.jpg",Hasta la madre! del Día de los muertos (2023)
-http://208.88.245.85/nuevo/hastalamadre.del.diademuertos.latino2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|"  tvg-logo="https://image.tmdb.org/t/p/w500/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg",El negocio del dolor (2023)
-http://208.88.245.85/nuevo/el.negocio.deldolor.dual20223.mkv
-#EXTINF:-1 group-title="|CINE 2023|"   tvg-logo="https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg",Tortugas Ninja: Caos mutante (2023)
-http://208.88.245.85/nuevo/tortugasninja.caos.mutante.dual.2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|"   tvg-logo="https://image.tmdb.org/t/p/w500/pQeyfqLEDdY6x4P4Fl5r6jcstN4.jpg",Me vuelves loca (2023)
-http://208.88.245.85/nuevo/m.vuelves.loca.latino2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/muDaKftykz9Nj1mhRheMdbuNI9Z.jpg",Hijos De Perra (2023)
-http://208.88.245.85/nuevo/hijos.de.perra.dual2023.mkv
-#EXTINF:-1  group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg",Monster high 2
-http://208.88.245.85/nuevo/monsterhigh.dual.2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/xM1yX980L50kjyGuvhykkz4utry.jpg",Hasta la madre del día de muertos 
-http://208.88.245.85/nuevo/hastalamadre.del.diademuertos.latino2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg",Papas a la antigua
-http://208.88.245.85/nuevo/papas.ala.antigua.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/okNxsEpMbCQgQBqSw2U5hIq4Fd5.jpg",Materia gris
-http://208.88.245.85/nuevo/materiagris.dual.2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/rhNmY4Djv4273A1TktDCEaOwHIz.jpg",Scary Girl
-http://208.88.245.85/nuevo/scarygirl.dual.2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/2NYd7jKFnilcIOUfDI8o2TOuCmu.jpg",La hija del prisionero 
-http://208.88.245.85/nuevo/la.hija.del.prisionero.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/30we4NrF5F1FcBDklBGXvCDn1pG.jpg",Una verdadera familia embrujada
-http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",THE  burial
-http://208.88.245.85/nuevo/the.burial.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/fWsuqZ5kk5rYeWVXpjrHercEBNH.jpg",Invitación a un asesino
-http://208.88.245.85/nuevo/invitacion.a.un.asesinato.latino2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg",Paw patrón la.super película 
-http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/gmZGAbI42ecAoixyvZI0Se4Qiau.jpg",Finnck
-http://208.88.245.85/nuevo/finnick.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg",Cementerio de mascotas
-http://208.88.245.85/nuevo/cementerio.mascotas.elorigen.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/nbrqj9q8WubD3QkYm7n3GhjN7kE.jpg",Los indestructibles 4
-http://208.88.245.85/nuevo/los.indestructibles4.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/duv6wtHMuN74HF7UuLjvUUrn8dB.jpg",Un sorbo frío  asesinato de Jessica Won
-http://208.88.245.85/nuevo/un.sorbo.frio.asesinato.de.jessicawon.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg",Scooby crypto al rescate
-http://208.88.245.85/nuevo/scooby.ykrypto.alrescate.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="La oscuridad de la luz del mundo",La oscuridad de la luz del mundo
-http://208.88.245.85/nuevo/la.oscuridad.delaluz.del.mundo.latino2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/soIgqZBoTiTgMqUW0JtxsPWAilQ.jpg",Reptiles
-http://208.88.245.85/nuevo/reptiles.dual2023.mkv
+#EXTINF:-1 group-title"Accion/Thriller/Crimen" tvg-logo="https://i.ibb.co/0D1nJwt/La-tierra-y-la-sangre.jpg",La tierra y la sangre (2020)
+https://archive.org/download/1_20200428/1.2/3.mp4
 
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",Spy kids armagedon
-http://208.88.245.85/nuevo/spykids.armagedon.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/6cZbQppNSELFdsV7gvrOflL6DWK.jpg",Quieres ser mi hijo 
-http://208.88.245.85/nuevo/quieres.ser.mi.hijo.lat2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg",Cassandro
-http://208.88.245.85/nuevo/casandro.2023dual.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/516MFML05KWiPfiQNAsVCGMySc7.jpg",El rencor de edimburgo parte 2
-http://208.88.245.85/nuevo/el.rencor.de.edimburgo.part2.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/nQG3HhzRnr26e0O0yuTeXqnVGbn.jpg",Las cintas de rosa peral
-http://208.88.245.85/nuevo/las.cintas.de.rosaperal.cast2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/kMI3tgxLAZbzGOVlorUBva0kriS.jpg",A millones de kilómetros 
-http://208.88.245.85/nuevo/a.millones.de.kilometros.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",Retribución contra reloj
-http://208.88.245.85/nuevo/retribution.contrareloj.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg",Sonido de libertad
-http://208.88.245.85/nuevo/sonido.de.libertad.2023dual.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/pQeyfqLEDdY6x4P4Fl5r6jcstN4.jpg",Me vuelves loca
-http:/208.88.245.85/nuevo/m.vuelves.loca.latino2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg",Teen mutant ninfa turtles mayhem
-http://208.88.245.85/hd/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/4EONm3medZBNfHhost4taqrje1r.jpg",La gran seducción 
-http://208.88.245.85/nuevo/la.gran.seduccion.2023.latino.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/2aBjSNnl1eIsR8RVNlczc1beL6l.jpg",Los casi ídolos de bahía colorada
-http://208.88.245.85/nuevo/los.casi.idolos.de.bahia.colorada.latino2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",Dracula mar de sangre
-http://208.88.245.85/nuevo/dracula.mar.de.sangre.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/7KK4s4QOYemq1fC9stcdZbhIiVm.jpg",Isabel el caso nardoni
-http://208.88.245.85/nuevo/isabella.el.caso.nardoni.dual.2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/6qR9WbXYIddZcVk6nxFULfHcKmK.jpg",Águila y Jaguar
-http://208.88.245.85/nuevo/aguila.y.jaguar.2023.latino.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",Indiana Jones and the dial of Destiny
-http://208.88.245.85/nuevo/indianajones5.latino.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg",El final que quiero
-http://208.88.245.85/nuevo/el.final.que.quiero.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg",El salón de la infamia 
-http://208.88.245.85/nuevo/untolld.el.salon.dla.infamia.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg",Amigos de las vacaciones 2
-http://208.88.245.85/nuevo/amigos.dlas.vacaciones2.dual.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg",Blue beetle
-http://208.88.245.85/nuevo/bluebeetle.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/e7CKgRnRdE7bk1jl2vhJniX89cU.jpg",Al descubierto Johnn football
-http://208.88.245.85/nuevo/al.descubierto.johnnyfootball.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg",Zoey 102 la boda
-http://208.88.245.85/nuevo/zoey102.laboda.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/lFDPyo6mdooNcHvgy17gz1GEjg4.jpg",Snoopy presenta
-http://208.88.245.85/nuevo/snoopypresenta.launicaeinigualable.marcie.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/q17tXNROOslj7uCGicKNlIf9Rx6.jpg",Princesas lego Disney aventuras
-http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",Meg 2 el gran abismo
-http://208.88.245.85/nuevo/meg2.el.gran.abismo.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/gvtMN1IWBqqPYYlPy2saWaPbmP9.jpg",Blue Beetle (2023) CAM
-https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FWatch%20Blue%20Beetle%202023%201080p%20CAMRip%20LAT%20DUB%20mp4.mp4
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/gvtMN1IWBqqPYYlPy2saWaPbmP9.jpg",Blue Beetle
-https://archive.org/download/01_20230818/01.mp4
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",Cuando termines de salvar al mundo
-http://208.88.245.85/nuevo/cuando.termines.dsalvar.almundo.2023dual.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/p4U0DQdxK7VeFImi2gzFKhe1JuB.jpg",Los habitantes
-http://208.88.245.85/nuevo/los.habitantes.2023.latino.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/qMgx4ofxWNqgXliRyXGXImoA7vX.jpg0",Dime lo que quieres
-http://208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg",Divina señal
-http://208.88.245.85/nuevo/divina.senal.latino2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppen heimer
-http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/wve9qIZ8pXrDpHy1h47cGXHjZpH.jpg",Los 3 mosqueteros dartagnan
-http://208.88.245.85/nuevo/los.tres.mosqueteros.dartagnan.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg",Hazme el favor
-http://208.88.245.85/nuevo/hazme.el.favor.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",Agente Stone
-http://208.88.245.85/nuevo/agentestone.dual2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/995t1sb4ummXHBfKlXLSM1IAEjc.jpg",Fisrt solamente dunk
-http://208.88.245.85/nuevo/firstslamdunk.dual.2023.mkv
-#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/3gFtw4w2bIUYKWOrmBgfI6iXfmZ.jpg",Mansión embrujada
-http://208.88.245.85/nuevo/mansion.embrujada.dual2023.mkv
+#EXTINF:-1 group-title"Biografico/Crimen/Drama" tvg-logo="https://i.ibb.co/7k8Rpb9/legend.jpg",Leyenda: profesión de la violencia (2015)
+https://archive.org/download/pssi_20200515/fryu/llendale.avi
 
+#EXTINF:-1 group-title"Crimen/Drama" tvg-logo="https://i.ibb.co/TcHKNnX/Mexican-Gangsters.jpg",Gánster Mexicano (2013)
+https://archive.org/download/solf-12/onai/mgs.avi
 
+#EXTINF:-1 group-title"Accion/Aventura/Ciencia ficcion" tvg-logo="https://i.ibb.co/86FWFvw/Assasins-Creed.jpg",Assasins Creed
+https://ia601509.us.archive.org/32/items/nhu9tdftu/cvovcc.mp4
 
+#EXTINF:-1 group-title"Ciencia ficción/Acción" tvg-logo="https://i.ibb.co/NyPn4B4/ms1.jpg",MS1 MAxima Seguridad Prisionera del Espacio (2012)
+https://ia601505.us.archive.org/12/items/4_20210301/8%20nov/3.mp4
 
+#EXTINF:-1 group-title"Acción/Artes Marciales" tvg-logo="https://i.ibb.co/r0NsVnW/Blood-and-Bone.jpg",Puños Mortales (2009)
+https://archive.org/download/040_20200504/040.avi
 
+#EXTINF:-1 group-title"Acción/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mlH5Fm86tr7Q0NdKskVY6rZb5W3.jpg",Rápidos y Furiosos (2001)
+https://archive.org/download/pi_20221228/pi.mkv
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qmevjlNDaWoEughGlXFWHbQ4TaR.jpg",La liga de la justicia mundo bélico 
-http://208.88.245.85/nuevo/ligadlajusticia.mundo.belico.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9YDW8dCrQyRpppK5985hKY1Mc8X.jpg",La fiebre de los peluches
-http://208.88.245.85/nuevo/la.fiebre.dlos.peluches.beanie.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg",Proyecto extracción 
-http://208.88.245.85/nuevo/proyecto.extraccion.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qmW8mPhcdOP3v36Gz8WEeDdewFN.jpg",La dama del silencio
-http://208.88.245.85/nuevo/la.dama.del.silencio.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",Barbie
-http://208.88.245.85/nuevo/barbie.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg",Shooting stars
-http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",El clon de tyrone
-http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg",La leyenda de los chaneques
-http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xFR8Sxvb1isO5UoMIWsXGs95fdk.jpg",Lionel Messi destiny
-http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Mission impossible
-http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg",Shooting stars
-http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",El clon de tyrone
-http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg",La leyenda de los chaneques
-http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xaZjJeFNKVq8rpd4ElSFlONVLh6.jpg",Lionel Messi destiny
-http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Mission impossible
-http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hQUT2B0QVV17pYMHyLzdNGVdrBF.jpg", Todo sobre mi padre
-http://208.88.245.85/nuevo/todo.sobre.mipadre.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tcKBclNUdkas4Jis8RYYZnPdTIm.jpg",Asteroid city
-http://208.88.245.85/nuevo/asteroidcity.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppenheimer el dilema de la bomba atómica 
-http://208.88.245.85/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg",Amigos hasta la muerte
-http://208.88.245.85/nuevo/amigos.hasta.lamuerte.cast2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg",Insidiuos puerta roja
-http://208.88.245.85/nuevo/insidiuos.puertaroja.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg",Nimona
-http://208.88.245.85/nuevo/nimona.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg",Suzume
-http://208.88.245.85/nuevo/suzume.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",Suegros de armas tomar
-http://208.88.245.85/nuevo/suegros.dearmas.tomar.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lotWiuWuTGlQ94rzBdy6ZmKZnTA.jpg",Krakens y sirenas
-http://208.88.245.85/nuevo/krakensysirenas.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",Indiana Jones 5
-http://208.88.245.85/nuevo/indianajones5.latino.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",Reposo absoluto
-http://208.88.245.85/nuevo/reposo.absoluto.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jJAF2h2iLLCpKUocEnoJz7wKtWq.jpg",El rey de los clones
-http://208.88.245.85/nuevo/rey.delos.clones.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9xvEhZZMOmLIkqe4khrtF5TkOnO.jpg",El mejor del mundo
-http://208.88.245.85/nuevo/el.mejor.delmundo.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",Ofrenda al demonio
-http://208.88.245.85/nuevo/ofrenda.aldemonio.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hAKV3WLdHOL313IImAoR2GFWC1W.jpg",Maquillame otra vez 
-http://208.88.245.85/nuevo/maquillame.otravez.latino.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",The Black clover la espada del rey
+#EXTINF:-1 group-title"Acción/Crimen" tvg-logo="https://i.ibb.co/nc1xXqn/Mas-Rapidos-mas-furiosos.jpg",Rapidos y Furioso 2: Más Rápido y más Furioso (2002)
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
+
+#EXTINF:-1 group-title"Acción/Crimen" tvg-logo="https://i.ibb.co/MPL7fv2/Rapidos-y-furiosos-Reto-Tokyo.jpg",Rápido y furioso 3: Reto Tokio (2006)
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20003.MP4
+
+#EXTINF:-1 group-title"Acción/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg",Rápidos y furiosos 4 (2009)
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20004.MP4
+
+#EXTINF:-1 group-title"Acción/Aventura/Crimen" tvg-logo="https://i.ibb.co/2sCbQfF/Rapidos-Y-Furiosos-Sin-Control.jpg",Rápidos y furiosos 5: Sin control (2011)
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2005.MP4
+
+#EXTINF:-1 group-title"Acción/Aventura/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg",Rápidos y Furiosos 6 (2013)
+https://archive.org/download/vue_20221230/vue.mkv
+
+#EXTINF:-1 group-title"Acción/Aventura/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/hO02IBZmvbn2RULu4myYVl2NUGj.jpg",Rápidos y Furiosos 7 (2015)
+https://archive.org/download/alt_20221231/alt.mkv
+
+#EXTINF:-1 group-title"Acción/Aventura/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/5b1zDwWxoDG8p8aHoRYfzOd7Lvy.jpg",Rápidos y Furiosos 8 (2017)
+https://archive.org/download/agi_20221231/agi.mkv
+
+#EXTINF:-1 group-title"Acción/Aventura/Crimen" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/AmIfHhFWSJioozbYFcRXOAvMRsx.jpg",Rápidos y Furiosos 9 (2021)
+https://archive.org/download/tecli/tecli.mkv
+
+#EXTINF:-1 group-title"Acción/Aventura/Crimen" tvg-logo="https://i.ibb.co/4ZvQC2y/Pstr-1-1.jpg",Rapidos y Furiosos X (2023)
+https://dl.dropbox.com/s/0dushmny5bad43p/f45stX.mp4
+
+#EXTINF:-1 group-title"Crimen/Drama" tvg-logo="https://i.ibb.co/z22p6HQ/Sangre-Por-Sangre.jpg",Sangre Por Sangre (1993)
+https://archive.org/download/sang_20200511/Sang/Sang.mp4
+
+#EXTINF:-1 group-title"Acción/Comedia" tvg-logo="https://i.ibb.co/vsTV8f1/Taxi-2.jpg",Taxi 2 (2000)
+https://archive.org/download/taxderni/Tax2Cast.mp4
+
+#EXTINF:-1 group-title"Acción/Comedia" tvg-logo="https://i.ibb.co/Z2Y5tCS/Taxi-3.jpg",Taxi 3 (2003)
+https://archive.org/download/taxderni/Tax3Cast.mp4
+
+#EXTINF:-1 group-title"Acción/Comedia" tvg-logo="https://i.ibb.co/HTP9VNC/T4xi.jpg",Taxi 4 (2007)
+https://archive.org/download/taxderni/Tax4Cast.mp4
+
+#EXTINF:-1 group-title"Acción/Comedia" tvg-logo="https://i.ibb.co/7VW0ngd/Taxi-Express.jpg",Taxi Expreso (1998)
+https://archive.org/download/taxderni/Tax1Cast.mp4
+
+#EXTINF:-1 group-title"Acción/Desastre" tvg-logo="https://i.ibb.co/B3pZ2nx/Terremoto-La-Falla-de-san-Andres.jpg",Terremoto: La falla de San Andrés (2015)
+https://archive.org/download/00100_20190920_0442/00100.avi
+
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",The Black clover la espada del rey
 http://208.88.245.85/nuevo/blacklover.espadadelreymago.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya
+#EXTINF:-1 group-title="Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya
 http://208.88.245.85/nuevo/cuiden.a.maya.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto
+#EXTINF:-1 group-title="Suspenso" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto
 http://208.88.245.85/nuevo/el.pacto.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental 
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental 
 http://208.88.245.85/nuevo/elemental.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",The flash
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",The flash
 http://208.88.245.85/nuevo/the.flash.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",The Black clover la espada del rey
-http://208.88.245.85/nuevo/blacklover.espadadelreymago.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya
-http://208.88.245.85/nuevo/cuiden.a.maya.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto
-http://208.88.245.85/nuevo/el.pacto.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental 
-http://208.88.245.85/nuevo/elemental.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",The flash
-http://208.88.245.85/nuevo/the.flash.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers despertar de las bestias
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers despertar de las bestias
 http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spiderman a través del spiderverso
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spiderman a través del spiderverso
 http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg",Lego friends
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg",Lego friends
 http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9aYflMUqFZo5zEbquNmVSQpFfby.jpg",Los blancos no saben saltar
+#EXTINF:-1 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9aYflMUqFZo5zEbquNmVSQpFfby.jpg",Los blancos no saben saltar
 http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/40UPlmnQcG71KSmjijksZjbsH2q.jpg",La usurpadora
+#EXTINF:-1 group-title="Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/40UPlmnQcG71KSmjijksZjbsH2q.jpg",La usurpadora
 http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2
 http://208.88.245.85/nuevo/extraction.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kL4GDXHnwknt5oyD9eyyi693gbB.jpg",Taz odisea por las hamburguesas 
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kL4GDXHnwknt5oyD9eyyi693gbB.jpg",Taz odisea por las hamburguesas 
 http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uYxrWr9o44yO0HvVfFFHGu01gfX.jpg",La niña de la comunión 
+#EXTINF:-1 group-title="Terror" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uYxrWr9o44yO0HvVfFFHGu01gfX.jpg",La niña de la comunión 
 http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",Flaminhot
+#EXTINF:-1 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",Flaminhot
 http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) (CAM)
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) (CAM)
 http://208.88.245.85/nuevo/la.sirenita.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023)
+#EXTINF:-1 group-title="Terror" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023)
 http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2axXVpi3dKfESWzgncbakLB7o7f.jpg",La princesa cisne
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2axXVpi3dKfESWzgncbakLB7o7f.jpg",La princesa cisne
 http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",Ellas quieren más 
+#EXTINF:-1 group-title="Comedia romántica" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",Ellas quieren más 
 http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nRVnpz4dzRvknK0BANjJ76dP0D3.jpg",Big Mack gangsters
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nRVnpz4dzRvknK0BANjJ76dP0D3.jpg",Big Mack gangsters
 http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y tina
+#EXTINF:-1 group-title="Terror" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y tina
 http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita
 http://208.88.245.85/nuevo/la.sirenita.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg",Rock dog 3
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg",Rock dog 3
 http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicolle
-http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg",El último vagon
-http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg",Nada qué ver
-http://208.88.245.85/nuevo/nadakver.latino2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10
-http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen
-http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg",Uno para morir
-http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater
-http://208.88.245.85/nuevo/crater.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita suegra
-http://208.88.245.85/nuevo/benditasuegra.latino.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/j741ip55NOzabrllOXHJv2vpag7.jpg",Hasta la madre
-http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iKcnbqhKvlwfF4CnMVlRrYlOvM5.jpg",Air (2023)
-http://208.88.245.85/nuevo/air.2023.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",La madre (2023)
-http://208.88.245.85/nuevo/la.madre.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesión infernal: El despertar (2023)
-http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",Quiero tu vida (2023)
-http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",Ghosted (2023)
-http://208.88.245.85/nuevo/ghosted.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",Renfield: Asistente de vampiro (2023)
-http://208.88.245.85/nuevo/renfield.asistdvampiro.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg",Power Rangers: Ayer, hoy y siempre (2023)
-http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg",Peter Pan y Wendy (2023)
-http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",Embaucadores (2023)
-http://208.88.245.85/nuevo/sharper.2023.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg",Un paraíso peligroso (2023)
-http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023)
-http://208.88.245.85/nuevo/narvik.2023.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",Malcriados (2023)
-http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5C9rerMqV1X0jnRdbbsM1BswVI2.jpg",El último baile de Magic Mike (2023)
-http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",Llaman a la puerta (2023)
-http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lwybGlEEJtXZM3ynY19PNwNlPn9.jpg",Historia de Honor (2022)
-http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",Bodas de plomo (2023)
-http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",Alerta extrema (2023)
-http://208.88.245.85/nuevo/alerta.extrema.dual.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/26yQPXymbWeCLKwcmyL8dRjAzth.jpg",Historia de Honor (2022)
-http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023)
-http://208.88.245.85/nuevo/narvik.2023.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",Bodas de plomo (2023)
-http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",Hacia la libertad (2022)
-http://208.88.245.85/nuevo/emancipation.dual.2022.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",M3GAN (2022)
-http://208.88.245.85/nuevo/megan.dual.2022.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",Pinocho de Guillermo del Toro (2022)
-http://208.88.245.85/nuevo/pinocchio.deltoro.dual.2022.mkv
-
-
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppenheimer: el dilema de la bomba atómica (2023)
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qmevjlNDaWoEughGlXFWHbQ4TaR.jpg",La liga de la justicia mundo bélico 
+http://208.88.245.85/nuevo/ligadlajusticia.mundo.belico.dual2023.mkv
+#EXTINF:-1 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9YDW8dCrQyRpppK5985hKY1Mc8X.jpg",La fiebre de los peluches
+http://208.88.245.85/nuevo/la.fiebre.dlos.peluches.beanie.dual2023.mkv
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg",Proyecto extracción 
+http://208.88.245.85/nuevo/proyecto.extraccion.dual2023.mkv
+#EXTINF:-1 group-title="Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qmW8mPhcdOP3v36Gz8WEeDdewFN.jpg",La dama del silencio
+http://208.88.245.85/nuevo/la.dama.del.silencio.dual2023.mkv
+#EXTINF:-1 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",Barbie
+http://208.88.245.85/nuevo/barbie.dual.2023.mkv
+#EXTINF:-1 group-title="Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg",Shooting stars
+http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv
+#EXTINF:-1 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",El clon de tyrone
+http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg",La leyenda de los chaneques
+http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv
+#EXTINF:-1 group-title="Documental" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xFR8Sxvb1isO5UoMIWsXGs95fdk.jpg",Lionel Messi destiny
+http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Mission impossible
+http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
+#EXTINF:-1 group-title="Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg",Shooting stars
+http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv
+#EXTINF:-1 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",El clon de tyrone
+http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg",La leyenda de los chaneques
+http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv
+#EXTINF:-1 group-title="Documental" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xaZjJeFNKVq8rpd4ElSFlONVLh6.jpg",Lionel Messi destiny
+http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Mission impossible
+http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
+#EXTINF:-1 group-title="Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hQUT2B0QVV17pYMHyLzdNGVdrBF.jpg", Todo sobre mi padre
+http://208.88.245.85/nuevo/todo.sobre.mipadre.dual2023.mkv
+#EXTINF:-1 group-title="Comedia dramática" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tcKBclNUdkas4Jis8RYYZnPdTIm.jpg",Asteroid city
+http://208.88.245.85/nuevo/asteroidcity.dual2023.mkv
+#EXTINF:-1 group-title="Drama histórico" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppenheimer: el dilema de la bomba atómica (2023)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Oppenheimer-%20el%20dilema%20de%20la%20bomba%20at%C3%B3mica%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",Unos suegros de armas tomar (2023)
+#EXTINF:-1 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",Unos suegros de armas tomar (2023)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Unos%20suegros%20de%20armas%20tomar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Misión imposible: Sentencia mortal (2023)(CAM)
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Misión imposible: Sentencia mortal (2023)(CAM)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Misi%C3%B3n-%20Imposible%20-%20Sentencia%20mortal%20parte%20uno%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la galaxia Vol. 3 (2023)
+#EXTINF:-1 group-title="Acción/Aventura" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la galaxia Vol. 3 (2023)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Guardianes%20de%20la%20Galaxia%20volumen%203%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto (The Covenant) (2023)
+#EXTINF:-1 group-title="Terror/Suspenso" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto (The Covenant) (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20El%20Pacto%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental (2023) (CAM)
+#EXTINF:-1 group-title="Animación/Fantasía" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental (2023) (CAM)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Elemental%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2 (2023)
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2 (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Tyler%20Rake%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",Misión de rescate 1 (2020)
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Misi%C3%B3n%20de%20rescate%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4",Misión de rescate 1 (2020)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Misi%C3%B3n%20de%20rescate%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",Flash (2023) (CAM)
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Flash%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4",Flash (2023) (CAM)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Flash%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Rápidos y furiosos 10 (2023)
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Rápidos y furiosos 10 (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",Hypnotic (2023) (CAM)
+#EXTINF:-1 group-title="Thriller" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",Hypnotic (2023) (CAM)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Hypnotic%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM)
+#EXTINF:-1 group-title="Terror" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Demonio%20negro%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM)
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Spider-Man-%20Cruzando%20el%20multiverso%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023)
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 (2023)
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023)
+#EXTINF:-1 group-title="Animación/Familia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023)
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 (2023)
+#EXTINF:-1 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 (2023)
 https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20Online.mp4
+
+*****************************
+
+
+
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 (2023)
@@ -968,16 +737,8 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20El%20Peso%20del%20Talento%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/chKMG9tzFqSkj24ejXTio156Qo0.jpg",El padre de la novia (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20El%20padre%20de%20la%20novia%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",Doctor Strange en el Multiverso de la Locura (2022
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",Doctor Strange en el Multiverso de la Locura (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
-
-#EXTINF:-1 group-title="Romper el circulo" tvg-logo="https://image.tmdb.org/t/p/original/2EH42blLQzgqwDWxn39RXkTgb91.jpg", Romper el circulo
-https://github.com/Imag7/Imagt/releases/download/Cam/cam.mp4
-
-
-
-
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nQRPSUmHGLrFRPK6v3BI1frAM1O.jpg",American Sicario (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20American%20Sicario%20(2021)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
@@ -1039,8 +800,6 @@ https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelicujulio%2FVer%20La%20guerra%20del%20ma%C3%B1ana%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",Un jefe en pañales 2 (2021)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelicujulio%2FVer%20El%20bebe%20jefazo-%20Negocios%20de%20familia%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
-+ Lista 1 (la vod )+
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cO6x9pTZHIBXbPLcmFSCXAI6Ky3.jpg",Noé (2014)
 http://vod.tuxchannel.mx/peliculas/720/noah.mkv
@@ -1467,8 +1226,6 @@ http://vod.tuxchannel.mx/peliculas/720/2%20guns.mkv
 #EXTINF:-1 group-title="Pelis 1"  tvg-logo="https://image.tmdb.org/t/p/w500/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg",1922 (2017)
 http://vod.tuxchannel.mx/peliculas/720/1922.mkv
 
-
-
 #EXTINF:-1 group-title="|CINE " tvg-logo="https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",El gato con botas: El último deseo (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63b8e638cabec_1GCBNuerm4ok_F.mp4
 #EXTINF:-1 group-title="|CINE "  tvg-logo="https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",El menú (2022)
@@ -1481,7 +1238,6 @@ https://d1yei2z3i6k35z.cloudfront.net/2104853/63b2fe1978679_7MRDNumero4k_F.mp4
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1b0ddb369_4EENNumero4k_F.mp4
 #EXTINF:-1 group-title="|CINE "  tvg-logo="https://image.tmdb.org/t/p/w500/xdZ5BIkQTGjZgCacdQQy7qNnoQ2.jpg",Reviviendo la Navidad (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1b0854580_3RLNNumer4k_F.mp4
-
 #EXTINF:-1 group-title="|CINE "  tvg-logo="https://image.tmdb.org/t/p/w500/7l3war94J4tRyWUiLAGokr3ViF2.jpg",Me llamo Venganza (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/638f82ffcc1da_3MLVNumero4k_A.mp4
 #EXTINF:-1 group-title="|CINE " tvg-logo="https://image.tmdb.org/t/p/w500/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",Bros: Más que amigos (2022)
@@ -1584,36 +1340,151 @@ http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
 #EXTINF:-1 group-title="|CINE "  tvg-logo="https://image.tmdb.org/t/p/w500/9igd4LlSiemRLC0Pg768zBQFEto.jpg",Quarantine 1 (2008)
 https://go.virgovip.ga/file/streamvip/peliculas/10/18/Ver%20Pelicula%20Cuarentena%20(2008)%20Online%20Latino%20en%20HD%20-%20Tekilaz.mp4
 
-#EXTINF:-1 group-title="|CINE 2024|" tvg-logo="https://socialgeek.co/wp-content/uploads/2024/03/image-4.png",Intensamente 2
+#EXTINF:-1 group-title=""  tvg-logo="https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",El Justiciero 3 capítulo final
+http://208.88.245.85/nuevo/el.justiciero3.dual2023.mkv
+#EXTINF:-1 group-title=""  tvg-logo="https://image.tmdb.org/t/p/w500/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg",El negocio del dolor (2023)
+http://208.88.245.85/nuevo/el.negocio.deldolor.dual20223.mkv
+#EXTINF:-1 group-title=""   tvg-logo="https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg",Tortugas Ninja: Caos mutante (2023)
+http://208.88.245.85/nuevo/tortugasninja.caos.mutante.dual.2023.mkv
+#EXTINF:-1 group-title=""   tvg-logo="https://image.tmdb.org/t/p/w500/pQeyfqLEDdY6x4P4Fl5r6jcstN4.jpg",Me vuelves loca (2023)
+http://208.88.245.85/nuevo/m.vuelves.loca.latino2023.mkv
+#EXTINF:-1 group-title=""  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/muDaKftykz9Nj1mhRheMdbuNI9Z.jpg",Hijos De Perra (2023)
+http://208.88.245.85/nuevo/hijos.de.perra.dual2023.mkv
+#EXTINF:-1  group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg",Monster high 2
+http://208.88.245.85/nuevo/monsterhigh.dual.2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/xM1yX980L50kjyGuvhykkz4utry.jpg",Hasta la madre del día de muertos 
+http://208.88.245.85/nuevo/hastalamadre.del.diademuertos.latino2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg",Papas a la antigua
+http://208.88.245.85/nuevo/papas.ala.antigua.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/okNxsEpMbCQgQBqSw2U5hIq4Fd5.jpg",Materia gris
+http://208.88.245.85/nuevo/materiagris.dual.2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/rhNmY4Djv4273A1TktDCEaOwHIz.jpg",Scary Girl
+http://208.88.245.85/nuevo/scarygirl.dual.2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/2NYd7jKFnilcIOUfDI8o2TOuCmu.jpg",La hija del prisionero 
+http://208.88.245.85/nuevo/la.hija.del.prisionero.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/30we4NrF5F1FcBDklBGXvCDn1pG.jpg",Una verdadera familia embrujada
+http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",THE  burial
+http://208.88.245.85/nuevo/the.burial.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/fWsuqZ5kk5rYeWVXpjrHercEBNH.jpg",Invitación a un asesino
+http://208.88.245.85/nuevo/invitacion.a.un.asesinato.latino2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg",Paw patrón la.super película 
+http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/gmZGAbI42ecAoixyvZI0Se4Qiau.jpg",Finnck
+http://208.88.245.85/nuevo/finnick.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg",Cementerio de mascotas
+http://208.88.245.85/nuevo/cementerio.mascotas.elorigen.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/nbrqj9q8WubD3QkYm7n3GhjN7kE.jpg",Los indestructibles 4
+http://208.88.245.85/nuevo/los.indestructibles4.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/duv6wtHMuN74HF7UuLjvUUrn8dB.jpg",Un sorbo frío  asesinato de Jessica Won
+http://208.88.245.85/nuevo/un.sorbo.frio.asesinato.de.jessicawon.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg",Scooby crypto al rescate
+http://208.88.245.85/nuevo/scooby.ykrypto.alrescate.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="La oscuridad de la luz del mundo",La oscuridad de la luz del mundo
+http://208.88.245.85/nuevo/la.oscuridad.delaluz.del.mundo.latino2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/soIgqZBoTiTgMqUW0JtxsPWAilQ.jpg",Reptiles
+http://208.88.245.85/nuevo/reptiles.dual2023.mkv
+
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",Spy kids armagedon
+http://208.88.245.85/nuevo/spykids.armagedon.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/6cZbQppNSELFdsV7gvrOflL6DWK.jpg",Quieres ser mi hijo 
+http://208.88.245.85/nuevo/quieres.ser.mi.hijo.lat2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg",Cassandro
+http://208.88.245.85/nuevo/casandro.2023dual.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/516MFML05KWiPfiQNAsVCGMySc7.jpg",El rencor de edimburgo parte 2
+http://208.88.245.85/nuevo/el.rencor.de.edimburgo.part2.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/nQG3HhzRnr26e0O0yuTeXqnVGbn.jpg",Las cintas de rosa peral
+http://208.88.245.85/nuevo/las.cintas.de.rosaperal.cast2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/kMI3tgxLAZbzGOVlorUBva0kriS.jpg",A millones de kilómetros 
+http://208.88.245.85/nuevo/a.millones.de.kilometros.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",Retribución contra reloj
+http://208.88.245.85/nuevo/retribution.contrareloj.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg",Sonido de libertad
+http://208.88.245.85/nuevo/sonido.de.libertad.2023dual.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/pQeyfqLEDdY6x4P4Fl5r6jcstN4.jpg",Me vuelves loca
+http:/208.88.245.85/nuevo/m.vuelves.loca.latino2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg",Teen mutant ninfa turtles mayhem
+http://208.88.245.85/hd/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/4EONm3medZBNfHhost4taqrje1r.jpg",La gran seducción 
+http://208.88.245.85/nuevo/la.gran.seduccion.2023.latino.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/2aBjSNnl1eIsR8RVNlczc1beL6l.jpg",Los casi ídolos de bahía colorada
+http://208.88.245.85/nuevo/los.casi.idolos.de.bahia.colorada.latino2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",Dracula mar de sangre
+http://208.88.245.85/nuevo/dracula.mar.de.sangre.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/7KK4s4QOYemq1fC9stcdZbhIiVm.jpg",Isabel el caso nardoni
+http://208.88.245.85/nuevo/isabella.el.caso.nardoni.dual.2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/6qR9WbXYIddZcVk6nxFULfHcKmK.jpg",Águila y Jaguar
+http://208.88.245.85/nuevo/aguila.y.jaguar.2023.latino.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",Indiana Jones and the dial of Destiny
+http://208.88.245.85/nuevo/indianajones5.latino.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg",El final que quiero
+http://208.88.245.85/nuevo/el.final.que.quiero.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg",El salón de la infamia 
+http://208.88.245.85/nuevo/untolld.el.salon.dla.infamia.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg",Amigos de las vacaciones 2
+http://208.88.245.85/nuevo/amigos.dlas.vacaciones2.dual.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg",Blue beetle
+http://208.88.245.85/nuevo/bluebeetle.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/e7CKgRnRdE7bk1jl2vhJniX89cU.jpg",Al descubierto Johnn football
+http://208.88.245.85/nuevo/al.descubierto.johnnyfootball.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg",Zoey 102 la boda
+http://208.88.245.85/nuevo/zoey102.laboda.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/lFDPyo6mdooNcHvgy17gz1GEjg4.jpg",Snoopy presenta
+http://208.88.245.85/nuevo/snoopypresenta.launicaeinigualable.marcie.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/q17tXNROOslj7uCGicKNlIf9Rx6.jpg",Princesas lego Disney aventuras
+http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",Meg 2 el gran abismo
+http://208.88.245.85/nuevo/meg2.el.gran.abismo.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/gvtMN1IWBqqPYYlPy2saWaPbmP9.jpg",Blue Beetle (2023) CAM
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FWatch%20Blue%20Beetle%202023%201080p%20CAMRip%20LAT%20DUB%20mp4.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/gvtMN1IWBqqPYYlPy2saWaPbmP9.jpg",Blue Beetle
+https://archive.org/download/01_20230818/01.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",Cuando termines de salvar al mundo
+http://208.88.245.85/nuevo/cuando.termines.dsalvar.almundo.2023dual.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/p4U0DQdxK7VeFImi2gzFKhe1JuB.jpg",Los habitantes
+http://208.88.245.85/nuevo/los.habitantes.2023.latino.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/qMgx4ofxWNqgXliRyXGXImoA7vX.jpg0",Dime lo que quieres
+http://208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg",Divina señal
+http://208.88.245.85/nuevo/divina.senal.latino2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppen heimer
+http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/wve9qIZ8pXrDpHy1h47cGXHjZpH.jpg",Los 3 mosqueteros dartagnan
+http://208.88.245.85/nuevo/los.tres.mosqueteros.dartagnan.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg",Hazme el favor
+http://208.88.245.85/nuevo/hazme.el.favor.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",Agente Stone
+http://208.88.245.85/nuevo/agentestone.dual2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/995t1sb4ummXHBfKlXLSM1IAEjc.jpg",Fisrt solamente dunk
+http://208.88.245.85/nuevo/firstslamdunk.dual.2023.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/w500/3gFtw4w2bIUYKWOrmBgfI6iXfmZ.jpg",Mansión embrujada
+http://208.88.245.85/nuevo/mansion.embrujada.dual2023.mkv
+
+#EXTINF:-1 group-title="" tvg-logo="https://socialgeek.co/wp-content/uploads/2024/03/image-4.png",Intensamente 2
 https://ia600405.us.archive.org/34/items/1nt-3-ns-4-m/1nt3_ns4M.mp4
-
-#EXTINF:-1  group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/d6SV8KP/KF4.jpg",Kung Fu Panda 4 (2024)
+#EXTINF:-1  group-title="" tvg-logo="https://i.ibb.co/d6SV8KP/KF4.jpg",Kung Fu Panda 4 (2024)
 https://dl.dropbox.com/scl/fi/8fm8d0ktuvq0l8icgirlh/kung4.mkv?rlkey=p6lk2tbw00i9du7men82bb0ui
-
-#EXTINF:-1 group-title="|CINE 2024|"  tvg-logo="https://i.ibb.co/vdT6Vth/megamin2.jpg",Megamente Vs. El sindicato de la perdicion (2024)
+#EXTINF:-1 group-title=""  tvg-logo="https://i.ibb.co/vdT6Vth/megamin2.jpg",Megamente Vs. El sindicato de la perdicion (2024)
 https://dl.dropbox.com/scl/fi/8uu2kldarmr0i5lgmbe85/Megamind2.mkv?rlkey=fni3k2hwdm9qouve5zgu7ku95
-
-#EXTINF:-1, group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/wNQXCVj/argylle.jpg",Argylle: agente secreto (2024)
+#EXTINF:-1, group-title="" tvg-logo="https://i.ibb.co/wNQXCVj/argylle.jpg",Argylle: agente secreto (2024)
 https://dl.dropbox.com/scl/fi/t6rijs8arxg8yryc0jovi/4rgy.mp4?rlkey=hrx9ustmmc7zisfpqfdsxxuoj
-#EXTINF:-1, group-title="|CINE 2024|"  tvg-logo="https://i.ibb.co/NYBfrtt/road.jpg",Road House (2024)
+#EXTINF:-1, group-title=""  tvg-logo="https://i.ibb.co/NYBfrtt/road.jpg",Road House (2024)
 https://dl.dropbox.com/scl/fi/omir5ir4001n3xyvhhnu6/R0AD-H0US3.mp4?rlkey=dnpz2b15z29ewsak8lpz7d6z2
-#EXTINF:-1, group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/pLk6bgj/LIFT.jpg",Lift: un robo de primera clase (2024)
+#EXTINF:-1, group-title="" tvg-logo="https://i.ibb.co/pLk6bgj/LIFT.jpg",Lift: un robo de primera clase (2024)
 https://dl.dropbox.com/scl/fi/vxwei9jj6c990nxrd47p8/L1FT.mp4?rlkey=8rrpvrkr6pdk94qme2zleiy0a
-#EXTINF:-1, group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/Qnzb9N8/Snack.jpg",Snack Shack (2024)
+#EXTINF:-1, group-title="" tvg-logo="https://i.ibb.co/Qnzb9N8/Snack.jpg",Snack Shack (2024)
 https://dl.dropbox.com/scl/fi/grzb17xacvb8pa80flz8w/5n4ck.mp4?rlkey=jjmq989nh1thywikgaeobdacq
-#EXTINF:-1, group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/SnJjmMH/marley.jpg",Bob Marley: One Love (2024)
+#EXTINF:-1, group-title="" tvg-logo="https://i.ibb.co/SnJjmMH/marley.jpg",Bob Marley: One Love (2024)
 https://dl.dropbox.com/scl/fi/77utwmwbjwek39kwa8gbi/B0b.mp4?rlkey=rozzuprqry951dz5zsrll9nlf
-#EXTINF:-1,  group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/Xx5x3CR/Madame.jpg",Madame Web (2024)
+#EXTINF:-1,  group-title="" tvg-logo="https://i.ibb.co/Xx5x3CR/Madame.jpg",Madame Web (2024)
 https://dl.dropbox.com/scl/fi/mbhpjo2uqqgknud03n0sy/m4d4m3.mkv?rlkey=cy5apm5gsrdx0agva08fm891p
-#EXTINF:-1, group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/tz61KqF/AQUA.jpg",Aquaman: El Reino Perdido (2024)
+#EXTINF:-1, group-title="|" tvg-logo="https://i.ibb.co/tz61KqF/AQUA.jpg",Aquaman: El Reino Perdido (2024)
 https://dl.dropbox.com/scl/fi/byvlp9pjpr2bsf8u9hgu3/4QU4M4N.mp4?rlkey=0z0t3kp8bjzmh58pa2tpdjueb
-#EXTINF:-1, group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/Tc4Ts84/ligajusticia.jpg",La Liga de la Justicia: Crisis en las Tierras Infinitas Parte 1 (2024)
+#EXTINF:-1, group-title="" tvg-logo="https://i.ibb.co/Tc4Ts84/ligajusticia.jpg",La Liga de la Justicia: Crisis en las Tierras Infinitas Parte 1 (2024)
 https://dl.dropbox.com/scl/fi/0kc2bdbtyvgko3r5hp0ju/LIG4JUST2.mp4?rlkey=g9an453ustc7baa8bg5ngu3x0&st=ckv8htsq
-#EXTINF:-1, group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/Tc4Ts84/ligajusticia.jpg",La Liga de la Justicia: Crisis en las Tierras Infinitas Parte 1 (2024) 
+#EXTINF:-1, group-title="" tvg-logo="https://i.ibb.co/Tc4Ts84/ligajusticia.jpg",La Liga de la Justicia: Crisis en las Tierras Infinitas Parte 1 (2024) 
 https://dl.dropbox.com/scl/fi/2c7kr64chru63ui0087zv/L1G4D3L4JUST1C14.mkv?rlkey=trvuujmtgv0t25tugvd72plcw
-#EXTINF:-1, group-title="|CINE 2024|" tvg-logo="https://i.ibb.co/jf6Sq45/p0553.jpg",Possessions (2024)
+#EXTINF:-1, group-title="" tvg-logo="https://i.ibb.co/jf6Sq45/p0553.jpg",Possessions (2024)
 https://dl.dropbox.com/scl/fi/rqjvc7wtewcbf73aj0z57/P0ss3.mp4?rlkey=gqsqn5qs8haf4f1lyz7xlob01
-
-
-------------********----------------------------
-
+#EXTINF:-1 group-title="Romper el circulo" tvg-logo="https://image.tmdb.org/t/p/original/2EH42blLQzgqwDWxn39RXkTgb91.jpg", Romper el circulo
+https://github.com/Imag7/Imagt/releases/download/Cam/cam.mp4

@@ -4,20 +4,20 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (SMART-TV;Linux;Tyzen 2.4.0) AppleWebKit/538.1 (KHTML, like Gecko)Version/2.4.0TVSafari/538.1"
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
-#EXTINF:0, tvg-id="3" tvg-name="canal dos" group-title="a",Canal 2 MdP
+#EXTINF:0, tvg-id="Dos" tvg-name="canal dos" group-title="a",Canal 2 MdP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
-#EXTINF:-1, tvg-id="4" tvg-name="Canal 79" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="a",Canal 79 Mar del Plata
+#EXTINF:-1, tvg-id="79" tvg-name="Canal 79" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="a",Canal 79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 
-#EXTINF:-1, tvg-id="7" tvg-name="canal 8" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="a",Canal 8 Mar del Plata
-https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenendtime=1754361062&wowzatokenstarttime=0&wowzatokenhash=SEbRBFaE6C2XPPo_VzEYUmFiDfpndVtr9DltQHq1pDQ=
+#EXTINF:-1, tvg-id="ocho" tvg-name="canal 8" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="a",Canal 8 Mar del Plata
+https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenendtime=1755720208&wowzatokenstarttime=0&wowzatokenhash=bFZIJIpw0cAiIW_EBESURHq107PfcPTVNYz1QNE8FhI=
 
 #EXTINF:-1, tvg-id="8" tvg-name="canal ocho" tvg-logo="https://i.imgur.com/bq29sfG.png" user-agent="iPhone" group-title="a",Canal 8
 #EXTVLCOPT:http-user-agent=iPhone
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w728738468_b1662976.m3u8
 
-#EXTINF:-1, tvg-id="9" tvg-name="Canal diez" tvg-logo="https://i.imgur.com/bq29sfG.png" user-agent="iPhone" group-title="a",Canal 10 Mar del Plata
+#EXTINF:-1, tvg-id="Diez" tvg-name="Canal diez" tvg-logo="https://i.imgur.com/bq29sfG.png" user-agent="iPhone" group-title="a",Canal 10 Mar del Plata
 #EXTVLCOPT:http-user-agent=iPhone
 https://g3.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
@@ -25,122 +25,182 @@ https://g3.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
-#EXTINF:-1, tvg-id="11" tvg-name="telefe" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="a", Telefé
+#EXTINF:0, tvg-id="TvP" tvg-logo="https://i.imgur.com/XGrkzN3.png",TV Publica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+
+#EXTINF:0, Televisión Pública Ⓨ
+#EXTGRP:Argentina
+https://www.youtube.com/user/TVPublicaArgentina/live
+
+#EXTINF:0, C5N Ⓨ
+#EXTGRP:Argentina
+https://www.youtube.com/c/c5n/live
+
+#EXTINF:0, LN+ Ⓨ
+#EXTGRP:Argentina
+https://www.youtube.com/c/LaNacionMas/live
+
+#EXTINF:-1, tvg-id="Telefe" tvg-name="telefe" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="a", Telefé
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1, tvg-id="13" tvg-name="el trece" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="a", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1, tvg-id="14" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="a" user-agent="iPhone", A24
+#EXTINF:-1, tvg-id="A24" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="a" user-agent="iPhone", A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF:-1, tvg-id="15" tvg-name="Cronica" group-title="a", Cronica HD
+#EXTINF:-1, tvg-id="Cronica" tvg-name="Cronica" group-title="a", Cronica HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1, tvg-id="16" tvg-name="Argentinisima" group-title="a",Argentinisima Satelital
+#EXTINF:-1, tvg-id="Net TV" tvg-name="NET TV" tvg-logo="https://i.ibb.co/mCHVVTs/download.png",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ciudad Magazine" tvg-shift="0" tvg-logo="https://i.imgur.com/V1xZV72.png",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1, tvg-id="Artgentinisima" tvg-name="Argentinisima" group-title="a",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1, tvg-id="17" tvg-name="Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa"  group-title="a", Encuentro
+#EXTINF:-1, tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa"  group-title="a", Encuentro
 http://190.123.90.146:8000/play/a00o/index.m3u8
 
-#EXTINF:-1, tvg-id="18" tvg-name="Radio freccia" tvg-logo="https://i.imgur.com/RxeRlar.png" group-title="m",Radio Freccia TV (1080p)
+#EXTINF:-1, tvg-id="RT" tvg-name="RT",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="DW" tvg-name="DW", DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1, tvg-id="RadioFreccia" tvg-name="Radio freccia" tvg-logo="https://i.imgur.com/RxeRlar.png" group-title="m",Radio Freccia TV (1080p)
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
-#EXTINF:-1 ,tvg-id="19" tvg-name="Radio freccia2" tvg-logo="https://i.imgur.com/RxeRlar.png" group-title="m", Radio Freccia TV2 (1080p)
+#EXTINF:-1 ,tvg-id="RadioF" tvg-name="Radio freccia2" tvg-logo="https://i.imgur.com/RxeRlar.png" group-title="m", Radio Freccia TV2 (1080p)
 https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist_b3256000.m3u8
 
-#EXTINF:-1, tvg-id="20" tvg-name="VTC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7k6lDxvW1pWQSFORzr2prefjnryoJcSXrZ-uQuOWohAcxl9HpdvmG9sRzcD7JNX9ZqGk&usqp=CAU" group-title="m",Video Tour Channel
+#EXTINF:-1,tvg-id="XleveMedia" tvg-name="XlevelMedia" group-title="m", XlevelMedia
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
+#EXTINF:-1, tvg-id="VTC" tvg-name="VTC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7k6lDxvW1pWQSFORzr2prefjnryoJcSXrZ-uQuOWohAcxl9HpdvmG9sRzcD7JNX9ZqGk&usqp=CAU" group-title="m",Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
-#EXTINF:-1, tvg-id="21" tvg-name="Alt Tv" tvg-logo="https://alternatv.ar/alternatv.png" group-title="m",AlternaTV (720p)
+#EXTINF:-1, tvg-id="AltTV" tvg-name="Alt Tv" tvg-logo="https://alternatv.ar/alternatv.png" group-title="m",AlternaTV (720p)
 https://alternatv.ar/stream/hls/live.m3u8
 
-#EXTINF:-1,tvg-id="22" tvg-name="Vevo90" group-title="m",Vevo '90s
+#EXTINF:-1,tvg-id="Vevo90s" tvg-name="Vevo90" group-title="m",Vevo '90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,tvg-id="23" tvg-name="Vevo2k" group-title="m",Vevo 2K
+#EXTINF:-1,tvg-id="Vevo2k" tvg-name="Vevo2k" group-title="m",Vevo 2K
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,tvg-id="24" tvg-name="Vevo" tvg-logo="https://luisgyg.com/wp-content/uploads/2013/08/unnamed2.png" group-title="m",Vevo
+#EXTINF:-1,tvg-id="Vevo" tvg-name="Vevo" tvg-logo="https://luisgyg.com/wp-content/uploads/2013/08/unnamed2.png" group-title="m",Vevo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1, tvg-id="25" tvg-name="Much.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MuchMusic.png" group-title="m", Much Music
+#EXTINF:-1, tvg-id="MuchM" tvg-name="Much.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MuchMusic.png" group-title="m", Much Music
 https://delivery.cdn.rcs.net.ar/mnp/much_music_hls/playlist.m3u8
 
-#EXTINF:-1, tvg-id="26" tvg-name="Kiss kiss tv" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="m",Kiss Kiss TV (1080p)
+#EXTINF:-1, tvg-id="KissKiss" tvg-name="Kiss kiss tv" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="m",Kiss Kiss TV (1080p)
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="27" tvg-name="Cinecanal" group-title="c",Cinecanal
+#EXTINF:-1, tvg-id="cinecanal" tvg-name="Cinecanal" group-title="h",Cinecanal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
-#EXTINF:-1, tvg-id="28" tvg-name="Cine sony" group-title="c",Cine Sony
+#EXTINF:-1, tvg-id="cinecanal" tvg-name="Cine sony" group-title="h",Cine Sony
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-id="29" tvg-name="Sony US" group-title="c",Sony Ch us
+#EXTINF:-1, tvg-id="cinecanal" tvg-name="Sony US" group-title="h",Sony Ch us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1, tvg-id="30" tvg-name="El gourmet.AR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Cocina", El Gourmet
+#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Cocina", El Gourmet
 https://delivery.cdn.rcs.net.ar/mnp/gourmet/output.mpd
-#EXTINF:-1, tvg-name="31" tvg-name="Tastemade" group-title="Cocina", TASTEMADE
+#EXTINF:-1, tvg-name="Tastemade" tvg-name="Tastemade" group-title="Cocina", TASTEMADE
 https://amg00047-tastemade-tastemadees16international24i-ono-h4pdz.amagi.tv/playlist/amg00047-tastemade-tastemadees16international24i-ono/cb513d177b6c638c84cb3678d1d3d091a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600e66413e1ad668db7907b2ce08ed0868280811fa99c365db9a1309b2dd112a2ab4710e16b81705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434ff9081fa6f901fde0e54345c81ff9f34315c03044e4835cc9ca1abc87dc459d4a960bae46c4cea59bb041d4d7d33ab652b163470b743fddd57d919f04b78c9b243bce702c0b4f04e3a5defc193e870a4759feac9aea35a94b978a71b39d56d176f09f0b8aeb11c83a91a32585a1fbec434d2fa5c0547355d88fc2a4da45fe39fb99d884f37c6e8dfe54594acc7fd1212a42e3952aaf3ea267fa85228bf45a1c34d69041948ff0c4875036f0fd57a8f4c7e241664b730510925caf9f63cf269d7cad8e2020520d77ac9643c582d64c7a021dcfe85aa578ce7fc22c8a942e423077e798ab4deffb4f1fed39696eec2ef8d51960b6150b89233cff5727baf69dd2ec948ad4ff0f37b9df8817b13faffd26dbf817b1367c780cb7e02356410c2c84b5263e1d34e210b185efa1551c09e0f382cbf00219496b44035cdbb7a920cbd99b690a0088130770641c12a101d442d61406557d9e5080fa493cae2e1500caeb7f5153679388968484ddc50df549d6ddee3020351637f363450566c1b9805cb269182f340dce593314e549091baab8c6e7908c6b8eaf65ac39701d2c90a3400f5a04010e60fcb166d34ced9a19cbf99b08b6afe775768431b0141e99a2bb5ff9e092d24108d2c67a16659edf22854325c819d121eb83298da834e67d86b4ec18e8b569a5e3a2b80530c43835f6d0022220/195/1920x1080_4716800/index.m3u8
-#EXTINF:-1, tvg-id="32" tvg-name="elgourmet" group-title="Cocina",el gourmet
+#EXTINF:-1, tvg-id="elgourmet" tvg-name="elgourmet" group-title="Cocina",el gourmet
 http://143.0.67.77:8000/play/a06w/index.m3u8
-#EXTINF:-1, tvg-id="33" tvg-name="Food network Lat" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Cocina", Food Network
+#EXTINF:-1, tvg-id="FoodNetworkLAT" tvg-name="Food network Lat" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Cocina", Food Network
 http://190.102.246.93:9005/play/a03a
 
-#EXTINF:-1, tvg-id="34" tvg-name="South park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=3&q=35" group-title="h",South park
+#EXTINF:-1, tvg-id="SouthPark" tvg-name="South park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=3&q=35" group-title="h",South park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1, tvg-id="35" tvg-name="Comedy central Spa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" audio-track="spa" group-title="h",Comedy C Spa
+#EXTINF:-1, tvg-id="ComedySpa" tvg-name="Comedy central Spa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" audio-track="spa" group-title="h",Comedy C Spa
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1, tvg-id="36" tvg-name="Comedy central US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="h", Comedy Central
+#EXTINF:-1, tvg-id="ComedyUS" tvg-name="Comedy central US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="h", Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8 
-#EXTINF:-1, tvg-id="37" tvg-name="Portlandia" group-title="h", Portlandia
+#EXTINF:-1, tvg-id="PortL" tvg-name="Portlandia" group-title="h", Portlandia
 https://amc-portlandia-1-us.tablo.wurl.tv/playlist.m3u8
-#EXTINF:-1, tvg-id="38" tvg-name="Deal or no deal" group-title="h", deal or no deal
+#EXTINF:-1, tvg-id="DoNd" tvg-name="Deal or no deal" group-title="h", deal or no deal
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8
 
-#EXTINF:-1, tvg-id="40" tvg-name="PakaPaka" group-title="k",pakapaka
+#EXTINF:-1, tvg-id="PakaPaka" tvg-name="PakaPaka" group-title="k",pakapaka
 http://143.0.67.77:8000/play/a01n/index.m3u8
 
-#EXTINF:-1, tvg-id="41" tvg-name="Baby firts" group-title="k",Babyfirst
+#EXTINF:-1, tvg-id="BabyFirst" tvg-name="Baby firts" group-title="k",Babyfirst
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1, tvg-id="42" tvg-name="bitme" group-title="k",bitme
+#EXTINF:-1, tvg-id="BitMe" tvg-name="bitme" group-title="k",bitme
 http://24.152.53.3:8090/play/a013/index.m3u8
 
-
-
-#EXTINF:-1, tvg-id="43" tvg-name="Retro Cartoons" group-title="k",Pluto TV Retro Cartoons
+#EXTINF:-1, tvg-id="RetroCartoon" tvg-name="Retro Cartoons" group-title="k",Pluto TV Retro Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1, tvg-id="44" tvg-name="zoo moo" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" audio-track="spa" group-title="k",Zoo Moo
+#EXTINF:-1, tvg-id="zoo moo" tvg-name="zoo moo" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" audio-track="spa" group-title="k",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1, tvg-id="45" tvg-name="cartoonito" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="k", Cartoonito
+#EXTINF:-1, tvg-id="cartoonito" tvg-name="cartoonito" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="k", Cartoonito
 https://delivery.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 
-#EXTINF:-1, tvg-id="46" tvg-name="Super simple songs" group-title="k",SsS Ingles
+#EXTINF:-1, tvg-id="SsS" tvg-name="Super simple songs" group-title="k",SsS Ingles
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,tvg-id="47" tvg-name="Baby shark" group-title="k",BabyShark Ingles
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="48" tvg-name="pequeradio" group-title="k",Pequeradio TV
+#EXTINF:-1, tvg-id="peque" tvg-name="pequeradio" group-title="k",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1, tvg-id="48" tvg-name="Magic kids" group-title="k" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids
-https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1, tvg-id="MagicKids" tvg-name="Magic kids" group-title="k" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1, tvg-id="50" tvg-name="elChavo8" group-title="Retro", Elchavo del 8
+#EXTINF:-1, tvg-id="elChavo" tvg-name="elChavo8" group-title="Retro", Elchavo del 8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (SMART-TV;Linux;Tyzen 2.4.0) AppleWebKit/538.1 (KHTML, like Gecko)Version/2.4.0TVSafari/538.1"
 https://rumble.com/hls-vod/6qiazj/playlist.m3u8?u=3&b=0
 
-#EXTINF:-1, tvg-id="51" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Retro", MacGyver
+#EXTINF:-1, tvg-id="McGyver" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Retro", MacGyver
 https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
 
-#EXTINF:-1, tvg-id="52" tvg-name="Los Tres Chiflados" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="Retro", Los Tres Chiflados
+#EXTINF:-1, tvg-id="Los3chiflados" tvg-name="Los Tres Chiflados" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="Retro", Los Tres Chiflados
 https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
+
+
+#EXTINF:0,premium espn
+#EXTGRP:Undefined
+http://143.0.67.77:8000/play/a078/index.m3u8
+#EXTINF:0,premium tnt fulbo
+#EXTGRP:Undefined
+http://143.0.67.77:8000/play/a0bc/index.m3u8
+#EXTINF:0,premium tyc
+#EXTGRP:Undefined
+http://143.0.67.77:8000/play/a02s/index.m3u8
+
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+#EXTGRP:Undefined
+http://190.102.246.93:9005/play/a00x
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+#EXTGRP:Undefined
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1,ESPN 6 🇦🇷
+#EXTGRP:Undefined
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+#EXTINF:-1, ESPN SD vivo 🇦🇷
+#EXTGRP:Undefined
+http://45.71.254.1:8000/play/a038/index.m3u8
+#EXTINF:-1, ESPN HD vivo 🇦🇷
+#EXTGRP:Undefined
+http://45.71.254.1:8000/play/a01r/index.m3u8
+
+
+
+#EXTINF:0,TYC Sports Play 🇦🇷
+#EXTGRP:Undefined
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8

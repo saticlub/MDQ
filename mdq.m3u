@@ -101,17 +101,20 @@ https://delivery.cdn.rcs.net.ar/mnp/much_music_hls/playlist.m3u8
 #EXTINF:-1, tvg-id="KissKiss" tvg-name="Kiss kiss tv" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="m",Kiss Kiss TV (1080p)
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="cinecanal" tvg-name="Cinecanal" group-title="h",Cinecanal
+#EXTINF:-1, tvg-id="cinecanal" tvg-name="Cinecanal" group-title="h", Cinecanal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
-#EXTINF:-1, tvg-id="cinecanal" tvg-name="Cine sony" group-title="h",Cine Sony
+#EXTINF:-1, tvg-id="CineSony" tvg-name="Cine sony" group-title="h", Cine Sony
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-id="cinecanal" tvg-name="Sony US" group-title="h",Sony Ch us
+#EXTINF:-1, tvg-id="SonyUS" tvg-name="Sony US" group-title="h", Sony Ch us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1, tvg-id="SonyComedias" tvg-name"Sony Comedias", Sony Comedias (MX)
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Cocina", El Gourmet
 https://delivery.cdn.rcs.net.ar/mnp/gourmet/output.mpd

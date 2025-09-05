@@ -1,19 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="2" tvg-name="Canal 2" group-title="a",Canal 2 MdP
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (SMART-TV;Linux;Tyzen 2.4.0) AppleWebKit/538.1 (KHTML, like Gecko)Version/2.4.0TVSafari/538.1"
-https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-
 #EXTINF:0, tvg-id="Dos" tvg-name="canal dos" group-title="a",Canal 2 MdP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
-#EXTINF:-1, tvg-id="79" tvg-name="Canal 79" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="a",Canal 79 Mar del Plata
+#EXTINF:-1, tvg-id="Canal79" tvg-name="Canal 79" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="a",Canal 79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 
 #EXTINF:-1, tvg-id="ocho" tvg-name="canal 8" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="a",Canal 8 Mar del Plata
 https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenendtime=1755720208&wowzatokenstarttime=0&wowzatokenhash=bFZIJIpw0cAiIW_EBESURHq107PfcPTVNYz1QNE8FhI=
 
-#EXTINF:-1, tvg-id="8" tvg-name="canal ocho" tvg-logo="https://i.imgur.com/bq29sfG.png" user-agent="iPhone" group-title="a",Canal 8
+#EXTINF:-1, tvg-id="C8" tvg-name="canal ocho" tvg-logo="https://i.imgur.com/bq29sfG.png" user-agent="iPhone" group-title="a",Canal 8
 #EXTVLCOPT:http-user-agent=iPhone
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w728738468_b1662976.m3u8
 
@@ -21,7 +17,7 @@ https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w728738468_b1662976.m3
 #EXTVLCOPT:http-user-agent=iPhone
 https://g3.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1, tvg-id="10" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="a",Canal 10 MdP 720
+#EXTINF:-1, tvg-id="C10" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="a",Canal 10 MdP 720
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
@@ -102,16 +98,17 @@ https://delivery.cdn.rcs.net.ar/mnp/much_music_hls/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="cinecanal" tvg-name="Cinecanal" group-title="h", Cinecanal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1, tvg-id="CineSony" tvg-name="Cine sony" group-title="h", Cine Sony
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-id="SonyUS" tvg-name="Sony US" group-title="h", Sony Ch us
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UifpmkU.png" group-title="Cine",Hallmark en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
+
 
 #EXTINF:-1, tvg-id="SonyComedias" tvg-name"Sony Comedias", Sony Comedias (MX)
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
@@ -163,6 +160,8 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1, tvg-id="MagicKids" tvg-name="Magic kids" group-title="k" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animación",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1, tvg-id="elChavo" tvg-name="elChavo8" group-title="Retro", Elchavo del 8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (SMART-TV;Linux;Tyzen 2.4.0) AppleWebKit/538.1 (KHTML, like Gecko)Version/2.4.0TVSafari/538.1"
@@ -198,4 +197,4 @@ http://45.71.254.1:8000/play/a01r/index.m3u8
 
 #EXTINF:-1, tvg-id="TyC play" tvg-name="TyC play",TYC Sports Play 🇦🇷
 #EXTGRP:Undefined
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8

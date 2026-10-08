@@ -1,136 +1,58 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="Dos" tvg-name="canal dos" group-title="a",Canal 2 MdP
-#EXTGRP:
+#EXTINF:-1, tvg-id="Dos" tvg-name="canal dos",Canal 2 MdP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-
-#EXTINF:-1, tvg-id="Canal79" tvg-name="Canal 79" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="a",Canal 79 Mar del Plata
-#EXTGRP:
+#EXTINF:-1,Canal 79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 
-#EXTINF:-1, tvg-id="C8" tvg-name="canal ocho" tvg-logo="https://i.imgur.com/bq29sfG.png" user-agent="iPhone" group-title="a",Canal 8
-#EXTGRP:
-#EXTVLCOPT:http-user-agent=iPhone
-
-#EXTINF:-1, tvg-id="Diez" tvg-name="Canal diez" tvg-logo="https://i.imgur.com/bq29sfG.png" user-agent="iPhone" group-title="a",Canal 10 Mar del Plata
-#EXTGRP:
-#EXTVLCOPT:http-user-agent=iPhone
-
-#EXTINF:0, tvg-id="TvP" tvg-logo="https://i.imgur.com/XGrkzN3.png",TV Publica
-#EXTGRP:
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-
-#EXTINF:-1, tvg-id="TvPublica" tvg-name="TvPublica" Televisión Pública Ⓨ
-#EXTGRP:
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
-
-#EXTINF:-1, tvg-id="C5N" tvg-name="C5n", C5N Ⓨ
-#EXTGRP:
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
-
-#EXTINF:-1, tvg-id="LN+" tvg-name="LN+, "LN+ Ⓨ
-#EXTGRP:
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
-
-#EXTINF:-1, tvg-id="Telefe" tvg-name="telefe" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="a", Telefé
-#EXTGRP:
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
-
-#EXTINF:-1, tvg-id="13" tvg-name="el trece" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="a", El Trece
-#EXTGRP:
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1, tvg-id="A24" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="a" user-agent="iPhone", A24
-#EXTGRP:
-#EXTVLCOPT:http-user-agent=iPhone
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
-
-#EXTINF:-1, tvg-id="Cronica" tvg-name="Cronica" group-title="a", Cronica HD
-#EXTGRP:
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
 
 #EXTINF:-1, tvg-id="Net TV" tvg-name="NET TV" tvg-logo="https://i.ibb.co/mCHVVTs/download.png",NET TV
-#EXTGRP:
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-
+#EXTINF:-1, Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="Ciudad Magazine" tvg-shift="0" tvg-logo="https://i.imgur.com/V1xZV72.png",Ciudad Magazine
-#EXTGRP:
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8
-
-#EXTINF:-1, tvg-id="Artgentinisima" tvg-name="Argentinisima" group-title="a",Argentinisima Satelital
-#EXTGRP:
-https://stream1.sersat.com/hls/argentinisima.m3u8
-
-#EXTINF:-1, tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa"  group-title="a", Encuentro
-#EXTGRP:
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8
-
+#EXTINF:-1, Ciudad Magazine 2
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1,El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1,Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1, A24
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1, tvg-id="RT" tvg-name="RT",RT en Español
-#EXTGRP:
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
 #EXTINF:-1, tvg-id="DW" tvg-name="DW", DW en Español
-#EXTGRP:
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1, tvg-id="RadioFreccia" tvg-name="Radio freccia" tvg-logo="https://i.imgur.com/RxeRlar.png" group-title="m",Radio Freccia TV (1080p)
-#EXTGRP:
+#EXTINF:-1, tvg-id="RadioFreccia" tvg-name="Radio freccia" tvg-logo="https://i.imgur.com/RxeRlar.png",Radio Freccia TV (1080p)
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
-#EXTINF:-1 ,tvg-id="RadioF" tvg-name="Radio freccia2" tvg-logo="https://i.imgur.com/RxeRlar.png" group-title="m", Radio Freccia TV2 (1080p)
-#EXTGRP:
+#EXTINF:-1 ,tvg-id="RadioF" tvg-name="Radio freccia2" tvg-logo="https://i.imgur.com/RxeRlar.png", Radio Freccia TV2 (1080p)
 https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist_b3256000.m3u8
 
-#EXTINF:-1,tvg-id="XleveMedia" tvg-name="XlevelMedia" group-title="m", XlevelMedia
-#EXTGRP:
+#EXTINF:-1,tvg-id="XleveMedia" tvg-name="XlevelMedia", XlevelMedia
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
-#EXTINF:-1, tvg-id="AltTV" tvg-name="Alt Tv" tvg-logo="https://alternatv.ar/alternatv.png" group-title="m",AlternaTV (720p)
-#EXTGRP:
+#EXTINF:-1, tvg-id="AltTV" tvg-name="Alt Tv" tvg-logo="https://alternatv.ar/alternatv.png",AlternaTV (720p)
 https://tv.alterna.ar/stream/hls/live.m3u8
 
-#EXTINF:-1, tvg-id="KissKiss" tvg-name="Kiss kiss tv" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="m",Kiss Kiss TV (1080p)
-#EXTGRP:
+
+#EXTINF:-1, tvg-id="KissKiss" tvg-name="Kiss kiss tv" tvg-logo="https://i.imgur.com/ja6c2YZ.png",Kiss Kiss TV (1080p)
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CineSony" tvg-name="Cine sony" group-title="h", Cine Sony
-#EXTGRP:
+#EXTINF:-1, tvg-id="CineSony" tvg-name="Cine sony", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-id="PortL" tvg-name="Portlandia" group-title="h", Portlandia
-#EXTGRP:
+#EXTINF:-1, tvg-id="PortL" tvg-name="Portlandia", Portlandia
 https://amc-portlandia-1-us.tablo.wurl.tv/playlist.m3u8
-#EXTGRP:
-#EXTINF:-1, tvg-id="DoNd" tvg-name="Deal or no deal" group-title="h", deal or no deal
+
+#EXTINF:-1, tvg-id="DoNd" tvg-name="Deal or no deal", deal or no deal
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8
 
-#EXTINF:-1, tvg-id="PakaPaka" tvg-name="PakaPaka" group-title="k",pakapaka
-#EXTGRP:
+#EXTINF:-1, tvg-id="PakaPaka" tvg-name="PakaPaka",pakapaka
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
 
-#EXTINF:-1, tvg-id="BitMe" tvg-name="bitme" group-title="k",bitme
-#EXTGRP:
-http://24.152.53.3:8090/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="animation;kids",Disney Jr. Latin America
-#EXTGRP:
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1, tvg-id="zoo moo" tvg-name="zoo moo" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" audio-track="spa" group-title="k",Zoo Moo
-#EXTGRP:
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="k",Xtrema Cartoons
-#EXTGRP:
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/30e05eb172d04c7bb01c6495f82a4a6d.png" group-title="k", Dreiko TV
-#EXTGRP:
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-
-#EXTINF:-1, tvg-id="SsS" tvg-name="Super simple songs" group-title="k",SsS Ingles
-#EXTGRP:
+#EXTINF:-1, tvg-id="SsS" tvg-name="Super simple songs",SsS Ingles
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8

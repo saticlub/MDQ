@@ -11,8 +11,6 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1, Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="Ciudad Magazine" tvg-shift="0" tvg-logo="https://i.imgur.com/V1xZV72.png",Ciudad Magazine
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8
-#EXTINF:-1, Ciudad Magazine 2
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
@@ -50,9 +48,6 @@ https://amc-portlandia-1-us.tablo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="DoNd" tvg-name="Deal or no deal", deal or no deal
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8
-
-#EXTINF:-1, tvg-id="PakaPaka" tvg-name="PakaPaka",pakapaka
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
 
 #EXTINF:-1, tvg-id="SsS" tvg-name="Super simple songs",SsS Ingles
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8

@@ -1,53 +1,105 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="Dos" tvg-name="canal dos",Canal 2 MdP
+#EXTINF:-1,ESPN Premium HD
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1,TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+#EXTINF:-1,TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,Fox Sports en Espanol
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1,Canal 2 MdP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-#EXTINF:-1,Canal 79 Mar del Plata
+#EXTINF:-1,Canal 79 MdP
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:-1,Canal 8 MdP
+https://canal8mdq.unpocodeawita.workers.dev/
+#EXTINF:-1,Canal 10 Mar del Plata
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
-
-#EXTINF:-1, tvg-id="Net TV" tvg-name="NET TV" tvg-logo="https://i.ibb.co/mCHVVTs/download.png",NET TV
+#EXTINF:-1,tvg-logo="https://i.ibb.co/mCHVVTs/download.png",NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1, Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="Ciudad Magazine" tvg-shift="0" tvg-logo="https://i.imgur.com/V1xZV72.png",Ciudad Magazine
+#EXTINF:-1,tvg-logo="https://i.imgur.com/V1xZV72.png",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1,TV Publica
+http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
 #EXTINF:-1,Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1, A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1, tvg-id="RT" tvg-name="RT",RT en Español
+#EXTINF:-1, RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1, tvg-id="DW" tvg-name="DW", DW en Español
+#EXTINF:-1, DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1, tvg-id="RadioFreccia" tvg-name="Radio freccia" tvg-logo="https://i.imgur.com/RxeRlar.png",Radio Freccia TV (1080p)
+#EXTINF:-1,tvg-logo="https://i.imgur.com/RxeRlar.png",Radio Freccia TV (1080p)
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-
-#EXTINF:-1 ,tvg-id="RadioF" tvg-name="Radio freccia2" tvg-logo="https://i.imgur.com/RxeRlar.png", Radio Freccia TV2 (1080p)
+#EXTINF:-1 ,tvg-logo="https://i.imgur.com/RxeRlar.png", Radio Freccia TV2 (1080p)
 https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist_b3256000.m3u8
-
-#EXTINF:-1,tvg-id="XleveMedia" tvg-name="XlevelMedia", XlevelMedia
+#EXTINF:-1, XlevelMedia
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-
-#EXTINF:-1, tvg-id="AltTV" tvg-name="Alt Tv" tvg-logo="https://alternatv.ar/alternatv.png",AlternaTV (720p)
+#EXTINF:-1, tvg-logo="https://alternatv.ar/alternatv.png",AlternaTV (720p)
 https://tv.alterna.ar/stream/hls/live.m3u8
-
-
-#EXTINF:-1, tvg-id="KissKiss" tvg-name="Kiss kiss tv" tvg-logo="https://i.imgur.com/ja6c2YZ.png",Kiss Kiss TV (1080p)
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ja6c2YZ.png",Kiss Kiss TV (1080p)
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CineSony" tvg-name="Cine sony", Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,El Gourmet South (1080p)
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="PortL" tvg-name="Portlandia", Portlandia
+#EXTINF:-1,Europa Europa (1080p)
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+#EXTINF:-1, Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,Space South (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
+#EXTINF:-1,Latino Classic TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+
+#EXTINF:-1,El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1, Portlandia
 https://amc-portlandia-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="DoNd" tvg-name="Deal or no deal", deal or no deal
+#EXTINF:-1, deal or no deal
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8
 
-#EXTINF:-1, tvg-id="SsS" tvg-name="Super simple songs",SsS Ingles
+#EXTINF:-1,SsS Ingles
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South",ESPN Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South",ESPN 2 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South",ESPN 3 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South",ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South",ESPN 5 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD",ESPN 6 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD",ESPN 7 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Argentina",ESPN Latin America Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Argentina",ESPN 2 Latin America Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@Argentina",ESPN 3 Latin America Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South",ESPN 5 Latin America (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD",ESPN 6 Latin America (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8
